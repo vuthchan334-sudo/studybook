@@ -1,0 +1,349 @@
+{
+ "slug": "comparing-grades-and-options",
+ "title_ko": "Comparing Grades & Options",
+ "title_en": "ការប្រៀបធៀបកម្រិតគុណភាព (ពីកម្រិតដំបូង ដល់កម្រិតផុតលេខ)",
+ "subtitle": "From entry-level alternatives to medium-grade and top-tier choices",
+ "description": "Professional English vocabulary to evaluate, classify, and compare products: from budget entry-level to medium-grade, premium, and state-of-the-art mastery.",
+ "published": "2026-11-10",
+ "station_en": "Product Tiers",
+ "sections": [
+  {
+   "id": "entry",
+   "ko": "Entry-Level",
+   "en": "កម្រិតដំបូង",
+   "color": "#0052A4"
+  },
+  {
+   "id": "mid",
+   "ko": "Medium-Grade",
+   "en": "កម្រិតមធ្យម",
+   "color": "#00A84D"
+  },
+  {
+   "id": "high",
+   "ko": "Premium & High-End",
+   "en": "កម្រិតខ្ពស់",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "top",
+   "ko": "Top-Tier & Elite",
+   "en": "កម្រិតផុតលេខ",
+   "color": "#996CAC"
+  }
+ ],
+ "spine": {
+  "title": "Quality Progression · ពីកម្រិតដំបូងទៅកម្រិតកំពូល",
+  "note": "A clear comparison: entry-level basics, durable mid-range value, premium materials, and elite top-tier mastery."
+ },
+ "explain": {
+  "title": "At a glance · មើលមួយភ្លែត",
+  "why": "Understanding quality grades helps you make smart buying and technical choices. Moving from entry-level to top-tier shifts focus from low cost to durability, precision, and peak performance.",
+  "tiles": [
+   {
+    "img": "img/x-entry.svg",
+    "ko": "Entry-Level",
+    "en": "Affordable, core basics",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-mid.svg",
+    "ko": "Medium-Grade",
+    "en": "Durable, high value",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/c5-diamond.svg",
+    "ko": "High-End",
+    "en": "Premium craftsmanship",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-top.svg",
+    "ko": "Top-Tier",
+    "en": "Second to none, elite",
+    "color": "#996CAC"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "entry",
+   "img": "img/c1-seed.svg",
+   "flat": true,
+   "alt": "A small green sprout growing",
+   "hook": "Entry-level",
+   "ko": "This entry-level option is budget-friendly and great for beginners.",
+   "en": "💡 Meaning: Suitable for newcomers with basic features at an affordable cost.\n🇰🇭 ខ្មែរ៖ ជម្រើសកម្រិតដំបូង (entry-level) នេះមានតម្លៃសមរម្យ និងស័ក្តិសមបំផុតសម្រាប់អ្នកចាប់ផ្តើមដំបូង។",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "entry",
+   "img": "img/c2-shield.svg",
+   "flat": true,
+   "alt": "A protective shield icon",
+   "hook": "Essentials",
+   "ko": "While it lacks advanced features, it covers all the core essentials.",
+   "en": "💡 Meaning: It doesn't have fancy extras, but it performs the primary functions reliably.\n🇰🇭 ខ្មែរ៖ ទោះបីជាវាខ្វះមុខងារទំនើបៗក៏ដោយ ក៏វាបំពេញនូវរាល់តម្រូវការមូលដ្ឋានចាំបាច់ទាំងអស់បានយ៉ាងល្អ។",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "mid",
+   "img": "img/c3-hammer.svg",
+   "flat": true,
+   "alt": "A durable construction hammer",
+   "hook": "Durability",
+   "ko": "Upgrading to medium-grade tools gives you significantly better durability.",
+   "en": "💡 Meaning: Moving to mid-tier products provides noticeably longer lifespan and solid build.\n🇰🇭 ខ្មែរ៖ ការដំឡើងទៅឧបករណ៍កម្រិតមធ្យម (medium-grade) ផ្តល់ឱ្យអ្នកនូវភាពធន់រឹងមាំយូរអង្វែងជាងមុនគួរឱ្យកត់សម្គាល់។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "mid",
+   "img": "img/c4-target.svg",
+   "flat": true,
+   "alt": "A bullseye target with a hit center",
+   "hook": "Sweet spot",
+   "ko": "Mid-range options often hit the sweet spot between price and performance.",
+   "en": "💡 Meaning: Offers the ideal balance where you get high value without paying an excessive amount.\n🇰🇭 ខ្មែរ៖ ជម្រើសកម្រិតមធ្យម (mid-range) តែងតែជាចំណុចតុល្យភាពដ៏ល្អបំផុតរវាងតម្លៃ និងសមត្ថភាព។",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "high",
+   "img": "img/c5-diamond.svg",
+   "flat": true,
+   "alt": "A sparkling diamond gem",
+   "hook": "High-end",
+   "ko": "This high-end model is crafted from premium materials for demanding work.",
+   "en": "💡 Meaning: An expensive, top-quality item built with superior craftsmanship for heavy use.\n🇰🇭 ខ្មែរ៖ ម៉ូឌែលកម្រិតខ្ពស់ (high-end) នេះត្រូវបានផលិតឡើងពីវត្ថុធាតុដើមប្រណិត សម្រាប់ការងារដែលទាមទារគុណភាពខ្ពស់។",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "high",
+   "img": "img/c6-compass.svg",
+   "flat": true,
+   "alt": "A precision drafting compass",
+   "hook": "Precision",
+   "ko": "Professionals rely on high-grade equipment for unmatched precision and consistency.",
+   "en": "💡 Meaning: Experts choose superior gear because it delivers exact accuracy every single time.\n🇰🇭 ខ្មែរ៖ អ្នកជំនាញតែងតែពឹងផ្អែកលើឧបករណ៍កម្រិតខ្ពស់ ដើម្បីទទួលបានភាពសុក្រឹត និងប្រសិទ្ធភាពដែលមិនអាចប្រៀបផ្ទឹមបាន។",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "top",
+   "img": "img/c7-rocket.svg",
+   "flat": true,
+   "alt": "A space rocket launching",
+   "hook": "Top-tier",
+   "ko": "At the top tier, you get state-of-the-art technology that outperforms everything else.",
+   "en": "💡 Meaning: The highest possible category with the most cutting-edge innovation and performance.\n🇰🇭 ខ្មែរ៖ នៅកម្រិតផុតលេខ (top-tier) អ្នកនឹងទទួលបានបច្ចេកវិទ្យាទំនើបចុងក្រោយបង្អស់ (state-of-the-art) ដែលមានសមត្ថភាពខ្លាំងជាងគេទាំងអស់។",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "top",
+   "img": "img/c8-trophy.svg",
+   "flat": true,
+   "alt": "A shiny winner's trophy",
+   "hook": "Unrivaled",
+   "ko": "Its craftsmanship and build quality are truly second to none.",
+   "en": "💡 Meaning: An idiomatic phrase meaning 'the best of all; better than every competitor'.\n🇰🇭 ខ្មែរ៖ ភាពប៉ិនប្រសប់ក្នុងការផលិត និងគុណភាពរបស់វា គឺពិតជាល្អឥតខ្ចោះគ្មានពីរ (second to none)។",
+   "audio": "audio/c08.mp3"
+  },
+  {
+   "sec": "top",
+   "img": "img/c9-chart.svg",
+   "flat": true,
+   "alt": "A curve showing a plateau trend",
+   "hook": "Diminishing",
+   "ko": "Keep in mind that beyond a certain point, you face diminishing returns on cost.",
+   "en": "💡 Meaning: Paying double or triple the price only yields small marginal improvements.\n🇰🇭 ខ្មែរ៖ សូមចងចាំថា លើសពីកម្រិតជាក់លាក់មួយ ការចំណាយប្រាក់កាន់តែច្រើន អាចនឹងទទួលបានផលចំណេញបន្ថែមតិចតួចប៉ុណ្ណោះ (diminishing returns)។",
+   "audio": "audio/c09.mp3"
+  },
+  {
+   "sec": "top",
+   "img": "img/c10-star.svg",
+   "flat": true,
+   "alt": "A golden rating star badge",
+   "hook": "Top-notch",
+   "ko": "If you demand top-notch results, investing in elite gear is completely worth it.",
+   "en": "💡 Meaning: When only the highest quality outcome is acceptable, premium spending is justified.\n🇰🇭 ខ្មែរ៖ ប្រសិនបើអ្នកត្រូវការលទ្ធផលល្អឥតខ្ចោះកម្រិតកំពូល (top-notch) ការវិនិយោគលើឧបករណ៍កម្រិតផុតលេខ (elite) គឺពិតជាស័ក្តិសមខ្លាំងណាស់។",
+   "audio": "audio/c10.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "Nuance & Connotation · ភាពខុសគ្នានៃអត្ថន័យបង្កប់",
+   "items": [
+    {
+     "q": "Does 'cheap' mean the same thing as 'inexpensive' or 'budget-friendly'?",
+     "qen": "សំណួរ៖ តើពាក្យ 'cheap' មានន័យដូចគ្នានឹង 'inexpensive' ឬ 'budget-friendly' ដែរឬទេ?",
+     "a": "No. 'Cheap' implies low quality that breaks easily, whereas 'inexpensive' or 'budget-friendly' means affordable without insulting the quality.",
+     "aen": "💡 English: 'Cheap' carries a negative tone suggesting flimsy build; prefer 'cost-effective' or 'economical'.\n🇰🇭 ខ្មែរ៖ មិនដូចគ្នាទេ។ 'Cheap' តែងបង្កប់ន័យថាគុណភាពអន់ ងាយខូច ចំណែកឯ 'inexpensive' ឬ 'budget-friendly' សំដៅលើតម្លៃសមរម្យដោយមិនបង្ខូចគុណភាពឡើយ។",
+     "why": "Using the right word prevents offending clients or misunderstanding product value.",
+     "audio": "audio/qa1.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "Professional Evaluation · សំណួរពិភាក្សាជំនាញ",
+   "items": [
+    {
+     "q": "How do native speakers describe products that are the absolute best?",
+     "qen": "សំណួរ៖ តើជនជាតិដើមប្រើពាក្យ ឬឃ្លាអ្វីខ្លះ ដើម្បីពណ៌នាអំពីអ្វីដែលល្អបំផុតដាច់គេ?",
+     "a": "They use expressions like 'second to none', 'top-notch', 'cutting-edge', or 'state-of-the-art'.",
+     "aen": "💡 English: Idioms like 'industry gold standard' or 'pinnacle of craftsmanship' describe ultimate mastery.\n🇰🇭 ខ្មែរ៖ គេនិយមប្រើឃ្លាដូចជា 'second to none' (គ្មានអ្វីប្រៀបបាន), 'top-notch' (កម្រិតកំពូល), 'cutting-edge' (ឈានមុខគេ) ឬ 'state-of-the-art' (ទំនើបចុងក្រោយបង្អស់)។",
+     "audio": "audio/qa2.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "Clarification Questions · សំណួរសាកសួរជាក់ស្តែង",
+   "items": [
+    {
+     "ko": "What is the key difference between the mid-range and the top-tier option?",
+     "en": "💡 English: Asking for feature and material comparison · 🇰🇭 តើអ្វីជាចំណុចខុសគ្នាសំខាន់រវាងកម្រិតមធ្យម និងកម្រិតផុតលេខ?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "Would you recommend this for casual everyday use or heavy professional work?",
+     "en": "💡 English: Inquiring about appropriate use-case workload · 🇰🇭 តើអ្នកណែនាំវាសម្រាប់ការប្រើប្រាស់ធម្មតាប្រចាំថ្ងៃ ឬសម្រាប់ការងារអាជីពធ្ងន់ធ្ងរ?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Entry-Level & Budget · កម្រិតដំបូង",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "Entry-level",
+     "en": "💡 Suitable for beginners or basic needs at an accessible price · 🇰🇭 កម្រិតដំបូងសម្រាប់អ្នកចាប់ផ្តើម",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "Budget-friendly",
+     "en": "💡 Inexpensive and affordable without exceeding your budget · 🇰🇭 តម្លៃសមរម្យ សន្សំសំចៃ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "Bare-bones",
+     "en": "💡 Containing only the essential core elements with zero extras · 🇰🇭 មានត្រឹមតែមុខងារគ្រឹះចាំបាច់បំផុត",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "No-frills",
+     "en": "💡 Simple and functional without unnecessary decorative features · 🇰🇭 សាមញ្ញ គ្មានការតុបតែងបន្ថែមឥតប្រយោជន៍",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Mid-Range & Balance · កម្រិតមធ្យម",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "Medium-grade",
+     "en": "💡 Moderate quality situated between low and high standards · 🇰🇭 គុណភាពកម្រិតមធ្យម",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "Mid-range",
+     "en": "💡 Products that balance cost and performance reasonably · 🇰🇭 កម្រិតមធ្យម សមតុល្យតម្លៃ-សមត្ថភាព",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "Cost-effective",
+     "en": "💡 Producing good results relative to the money spent · 🇰🇭 ចំណាយតិច ទទួលបានផលចំណេញច្រើន",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "Durable",
+     "en": "💡 Able to withstand wear, pressure, or damage over a long time · 🇰🇭 រឹងមាំ ធន់យូរអង្វែង",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "High-End & Professional · កម្រិតខ្ពស់",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "High-end",
+     "en": "💡 Higher in quality, performance, and price than standard items · 🇰🇭 កម្រិតខ្ពស់ ប្រណិត",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "Heavy-duty",
+     "en": "💡 Designed to handle harsh conditions and intensive continuous use · 🇰🇭 ធន់រឹងមាំខ្លាំង សម្រាប់ការងារធ្ងន់",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "Precision",
+     "en": "💡 The quality of being extremely exact and accurate · 🇰🇭 ភាពសុក្រឹត ជាក់លាក់បំផុត",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "Superior",
+     "en": "💡 Higher in rank, status, or excellence compared to peers · 🇰🇭 គុណភាពល្អជាងគេដាច់",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Top-Tier & Mastery · កម្រិតផុតលេខ",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "Top-tier",
+     "en": "💡 Belonging to the highest possible grade or category · 🇰🇭 កម្រិតផុតលេខ/ជួរមុខគេ",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "State-of-the-art",
+     "en": "💡 Incorporating the newest ideas and most advanced technology · 🇰🇭 ទំនើបចុងក្រោយបង្អស់",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "Cutting-edge",
+     "en": "💡 At the forefront of innovation and development · 🇰🇭 ឈានមុខគេបង្អស់លើបច្ចេកវិទ្យា",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "Top-notch",
+     "en": "💡 Of the highest quality, performance, and excellence · 🇰🇭 ល្អឥតខ្ចោះ កម្រិតកំពូល",
+     "audio": "audio/v16.mp3"
+    },
+    {
+     "ko": "Second to none",
+     "en": "💡 Unsurpassed; better than all others in its class · 🇰🇭 គ្មានអ្វីប្រៀបផ្ទឹមបាន / គ្មានពីរ",
+     "audio": "audio/v17.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "Entry-Level · កម្រិតដំបូង",
+   "ko": "This entry-level option is budget-friendly and great for beginners. While it lacks advanced features, it covers all the core essentials.",
+   "en": "💡 Meaning: Suitable for newcomers with basic features at an affordable cost.\n🇰🇭 ខ្មែរ៖ ជម្រើសកម្រិតដំបូង (entry-level) នេះមានតម្លៃសមរម្យ និងស័ក្តិសមបំផុតសម្រាប់អ្នកចាប់ផ្តើមដំបូង។ 💡 Meaning: It doesn't have fancy extras, but it performs the primary functions reliably.\n🇰🇭 ខ្មែរ៖ ទោះបីជាវាខ្វះមុខងារទំនើបៗក៏ដោយ ក៏វាបំពេញនូវរាល់តម្រូវការមូលដ្ឋានចាំបាច់ទាំងអស់បានយ៉ាងល្អ។"
+  },
+  {
+   "title": "Medium-Grade · កម្រិតមធ្យម",
+   "ko": "Upgrading to medium-grade tools gives you significantly better durability. Mid-range options often hit the sweet spot between price and performance.",
+   "en": "💡 Meaning: Moving to mid-tier products provides noticeably longer lifespan and solid build.\n🇰🇭 ខ្មែរ៖ ការដំឡើងទៅឧបករណ៍កម្រិតមធ្យម (medium-grade) ផ្តល់ឱ្យអ្នកនូវភាពធន់រឹងមាំយូរអង្វែងជាងមុនគួរឱ្យកត់សម្គាល់។ 💡 Meaning: Offers the ideal balance where you get high value without paying an excessive amount.\n🇰🇭 ខ្មែរ៖ ជម្រើសកម្រិតមធ្យម (mid-range) តែងតែជាចំណុចតុល្យភាពដ៏ល្អបំផុតរវាងតម្លៃ និងសមត្ថភាព។"
+  },
+  {
+   "title": "Premium & High-End · កម្រិតខ្ពស់",
+   "ko": "This high-end model is crafted from premium materials for demanding work. Professionals rely on high-grade equipment for unmatched precision and consistency.",
+   "en": "💡 Meaning: An expensive, top-quality item built with superior craftsmanship for heavy use.\n🇰🇭 ខ្មែរ៖ ម៉ូឌែលកម្រិតខ្ពស់ (high-end) នេះត្រូវបានផលិតឡើងពីវត្ថុធាតុដើមប្រណិត សម្រាប់ការងារដែលទាមទារគុណភាពខ្ពស់។ 💡 Meaning: Experts choose superior gear because it delivers exact accuracy every single time.\n🇰🇭 ខ្មែរ៖ អ្នកជំនាញតែងតែពឹងផ្អែកលើឧបករណ៍កម្រិតខ្ពស់ ដើម្បីទទួលបានភាពសុក្រឹត និងប្រសិទ្ធភាពដែលមិនអាចប្រៀបផ្ទឹមបាន។"
+  },
+  {
+   "title": "Top-Tier & Elite · កម្រិតផុតលេខ",
+   "ko": "At the top tier, you get state-of-the-art technology that outperforms everything else. Its craftsmanship and build quality are truly second to none. Keep in mind that beyond a certain point, you face diminishing returns on cost. If you demand top-notch results, investing in elite gear is completely worth it.",
+   "en": "💡 Meaning: The highest possible category with the most cutting-edge innovation and performance.\n🇰🇭 ខ្មែរ៖ នៅកម្រិតផុតលេខ (top-tier) អ្នកនឹងទទួលបានបច្ចេកវិទ្យាទំនើបចុងក្រោយបង្អស់ (state-of-the-art) ដែលមានសមត្ថភាពខ្លាំងជាងគេទាំងអស់។ 💡 Meaning: An idiomatic phrase meaning 'the best of all; better than every competitor'.\n🇰🇭 ខ្មែរ៖ ភាពប៉ិនប្រសប់ក្នុងការផលិត និងគុណភាពរបស់វា គឺពិតជាល្អឥតខ្ចោះគ្មានពីរ (second to none)។ 💡 Meaning: Paying double or triple the price only yields small marginal improvements.\n🇰🇭 ខ្មែរ៖ សូមចងចាំថា លើសពីកម្រិតជាក់លាក់មួយ ការចំណាយប្រាក់កាន់តែច្រើន អាចនឹងទទួលបានផលចំណេញបន្ថែមតិចតួចប៉ុណ្ណោះ (diminishing returns)។ 💡 Meaning: When only the highest quality outcome is acceptable, premium spending is justified.\n🇰🇭 ខ្មែរ៖ ប្រសិនបើអ្នកត្រូវការលទ្ធផលល្អឥតខ្ចោះកម្រិតកំពូល (top-notch) ការវិនិយោគលើឧបករណ៍កម្រិតផុតលេខ (elite) គឺពិតជាស័ក្តិសមខ្លាំងណាស់។"
+  }
+ ]
+}

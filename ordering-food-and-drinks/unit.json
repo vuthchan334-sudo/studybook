@@ -1,0 +1,298 @@
+{
+ "slug": "ordering-food-and-drinks",
+ "title_ko": "Ordering Food & Drinks",
+ "title_en": "ការកុម្ម៉ង់អាហារ និងភេសជ្ជៈ",
+ "subtitle": "How to order coffee, ask about the menu, and pay politely",
+ "description": "Essential English phrases for ordering coffee, lunch, or takeout: from entering the shop to asking about the menu and paying the bill. With native audio and Khmer meanings.",
+ "published": "2026-11-10",
+ "station_en": "Cafe & Food",
+ "sections": [
+  {
+   "id": "arrive",
+   "ko": "At the Counter",
+   "en": "នៅមុខបញ្ជរ",
+   "color": "#0052A4"
+  },
+  {
+   "id": "order",
+   "ko": "Ordering",
+   "en": "ការកុម្ម៉ង់",
+   "color": "#00A84D"
+  },
+  {
+   "id": "custom",
+   "ko": "Preferences",
+   "en": "ការជ្រើសរើសជម្រើស",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "pay",
+   "ko": "Payment",
+   "en": "ការទូទាត់ប្រាក់",
+   "color": "#996CAC"
+  }
+ ],
+ "spine": {
+  "title": "Ordering Flow · របៀបកុម្ម៉ង់មួយជំហានម្តងៗ",
+  "note": "A clear flow: walk to the counter, state your order, customize options, and complete payment."
+ },
+ "explain": {
+  "title": "At a glance · មើលមួយភ្លែត",
+  "why": "Ordering at a cafe is quick and polite. Use phrases like 'Can I please have...' and specify size or sweetness clearly.",
+  "tiles": [
+   {
+    "img": "img/x-menu.svg",
+    "ko": "Menu",
+    "en": "Check options and sizes",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-cup.svg",
+    "ko": "I would like...",
+    "en": "Polite way to order",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-options.svg",
+    "ko": "Preferences",
+    "en": "Sweetness, milk or ice",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-pay.svg",
+    "ko": "Cash or Card",
+    "en": "Pay and get receipt",
+    "color": "#996CAC"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "arrive",
+   "img": "img/c1-counter.svg",
+   "flat": true,
+   "alt": "A staff person behind a service counter",
+   "hook": "Counter",
+   "ko": "Hello! What can I get started for you today?",
+   "en": "💡 Meaning: A standard greeting used by cafe staff to take your order.\n🇰🇭 ខ្មែរ៖ សួស្តី! តើខ្ញុំអាចជួយយកអ្វីជូនអ្នកថ្ងៃនេះដែរ?",
+   "audio": "audio/c1.mp3"
+  },
+  {
+   "sec": "order",
+   "img": "img/c2-coffee.svg",
+   "flat": true,
+   "alt": "An iced coffee cup with a straw",
+   "hook": "Latte",
+   "ko": "Can I please have an iced latte?",
+   "en": "💡 Meaning: A polite way to order a cold coffee with milk and ice.\n🇰🇭 ខ្មែរ៖ តើខ្ញុំអាចសុំកាហ្វេឡាតេទឹកកកមួយកែវបានទេ?",
+   "audio": "audio/c2.mp3"
+  },
+  {
+   "sec": "order",
+   "img": "img/c3-muffin.svg",
+   "flat": true,
+   "alt": "A baked chocolate chip muffin",
+   "hook": "Muffin",
+   "ko": "I would also like a chocolate muffin, please.",
+   "en": "💡 Meaning: Polite phrasing to add a pastry or food item to your order.\n🇰🇭 ខ្មែរ៖ ខ្ញុំសុំនំប៉័ងសូកូឡាមួយដែរ សូមអរគុណ។",
+   "audio": "audio/c3.mp3"
+  },
+  {
+   "sec": "custom",
+   "img": "img/c4-sugar.svg",
+   "flat": true,
+   "alt": "A sugar cube and sweetness symbol",
+   "hook": "Sugar",
+   "ko": "Could you make that with less sugar, please?",
+   "en": "💡 Meaning: Asking the barista to customize the sweetness level of your drink.\n🇰🇭 ខ្មែរ៖ តើអាចជួយធ្វើដោយដាក់ស្ករតិចបានទេ?",
+   "audio": "audio/c4.mp3"
+  },
+  {
+   "sec": "custom",
+   "img": "img/c5-bag.svg",
+   "flat": true,
+   "alt": "A paper takeaway food bag",
+   "hook": "Option",
+   "ko": "Is that for here or to go?",
+   "en": "💡 Meaning: Asking if you will drink inside the cafe or take it away.\n🇰🇭 ខ្មែរ៖ តើអ្នកពិសារនៅទីនេះ ឬខ្ចប់ទៅក្រៅ?",
+   "audio": "audio/c5.mp3"
+  },
+  {
+   "sec": "custom",
+   "img": "img/c6-takeaway.svg",
+   "flat": true,
+   "alt": "A confirmation checkmark icon",
+   "hook": "To go",
+   "ko": "To go, please. Thank you!",
+   "en": "💡 Meaning: Telling the cashier that you want your order packed in a takeaway cup.\n🇰🇭 ខ្មែរ៖ ខ្ចប់ទៅក្រៅ សូមអរគុណ!",
+   "audio": "audio/c6.mp3"
+  },
+  {
+   "sec": "pay",
+   "img": "img/c7-receipt.svg",
+   "flat": true,
+   "alt": "A purchase bill receipt",
+   "hook": "Total",
+   "ko": "How much is the total?",
+   "en": "💡 Meaning: Asking for the final price of everything you ordered.\n🇰🇭 ខ្មែរ៖ តើសរុបទាំងអស់ថ្លៃប៉ុន្មានដែរ?",
+   "audio": "audio/c7.mp3"
+  },
+  {
+   "sec": "pay",
+   "img": "img/c8-card.svg",
+   "flat": true,
+   "alt": "A credit card for payment",
+   "hook": "Card",
+   "ko": "Can I pay by credit card?",
+   "en": "💡 Meaning: Inquiring whether the shop accepts cashless card payments.\n🇰🇭 ខ្មែរ៖ តើខ្ញុំអាចទូទាត់តាមកាតឥណទានបានទេ?",
+   "audio": "audio/c8.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "Polite Phrases · របៀបនិយាយឱ្យមានសុជីវធម៌",
+   "items": [
+    {
+     "q": "Why is 'Can I please have...' better than 'Give me...'?",
+     "qen": "សំណួរ៖ ហេតុអ្វីបានជា 'Can I please have...' ល្អជាង 'Give me...'?",
+     "a": "'Can I please have' sounds friendly and polite, while 'Give me' can sound too direct or rude to staff.",
+     "aen": "💡 English: Adding 'please' and using 'can I have' makes customer interactions pleasant.\n🇰🇭 ខ្មែរ៖ 'Can I please have' ស្តាប់ទៅមានភាពរួសរាយ និងគួរសម ចំណែកឯ 'Give me' អាចស្តាប់ទៅរាងគំរោះគំរើយបន្តិចចំពោះបុគ្គលិក។",
+     "why": "Politeness helps create a great mood between customer and staff.",
+     "audio": "audio/qa1.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "Useful Questions · សំណួរមានប្រយោជន៍",
+   "items": [
+    {
+     "q": "What is the Wi-Fi password here?",
+     "qen": "សំណួរ៖ តើលេខកូដ Wi-Fi នៅទីនេះលេខប៉ុន្មានដែរ?",
+     "a": "The password is on the bottom of your receipt.",
+     "aen": "💡 English: Cafes usually print the network code directly on customer receipts.\n🇰🇭 ខ្មែរ៖ លេខសម្ងាត់មាននៅផ្នែកខាងក្រោមនៃបង្កាន់ដៃរបស់អ្នក។",
+     "audio": "audio/qa2.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "Survival Lines · ឃ្លាពេលត្រូវការជំនួយ",
+   "items": [
+    {
+     "ko": "Could you please give me a minute to look at the menu?",
+     "en": "💡 English: Asking for more time to make a decision · 🇰🇭 តើអាចសុំពេលខ្ញុំមួយនាទីដើម្បីមើលម៉ឺនុយសិនបានទេ?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "What do you recommend here?",
+     "en": "💡 English: Asking the barista for their personal or popular suggestion · 🇰🇭 តើអ្នកមានអ្វីណែនាំពិសេសនៅទីនេះទេ?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Drinks & Food · ភេសជ្ជៈ និងអាហារ",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "Coffee",
+     "en": "💡 Brewed drink made from roasted coffee beans · 🇰🇭 កាហ្វេ",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "Tea",
+     "en": "💡 A hot or iced drink made by steeping leaves · 🇰🇭 តែ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "Water",
+     "en": "💡 Clear pure liquid essential for hydration · 🇰🇭 ទឹកបរិសុទ្ធ",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "Sandwich",
+     "en": "💡 Food made of two slices of bread with filling · 🇰🇭 នំប៉័ងសាំងវិច",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Sizes & Options · ទំហំ និងជម្រើស",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "Small",
+     "en": "💡 The smallest beverage serving size · 🇰🇭 តូច",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "Medium",
+     "en": "💡 The standard middle beverage size · 🇰🇭 មធ្យម",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "Large",
+     "en": "💡 The biggest beverage serving size · 🇰🇭 ធំ",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "Less sugar",
+     "en": "💡 Drink prepared with reduced sweetness · 🇰🇭 ស្ករតិច",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Payment · ការទូទាត់ប្រាក់",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "Bill",
+     "en": "💡 Printed statement of charges for goods/food · 🇰🇭 វិក្កយបត្រ",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "Cash",
+     "en": "💡 Physical currency in banknotes or coins · 🇰🇭 ប្រាក់សុទ្ធ",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "Credit card",
+     "en": "💡 Plastic card used to make electronic payments · 🇰🇭 កាតឥណទាន",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "Receipt",
+     "en": "💡 Paper slip proving that payment was completed · 🇰🇭 បង្កាន់ដៃទទួលប្រាក់",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "At the Counter · នៅមុខបញ្ជរ",
+   "ko": "Hello! What can I get started for you today?",
+   "en": "💡 Meaning: A standard greeting used by cafe staff to take your order.\n🇰🇭 ខ្មែរ៖ សួស្តី! តើខ្ញុំអាចជួយយកអ្វីជូនអ្នកថ្ងៃនេះដែរ?"
+  },
+  {
+   "title": "Ordering · ការកុម្ម៉ង់",
+   "ko": "Can I please have an iced latte? I would also like a chocolate muffin, please.",
+   "en": "💡 Meaning: A polite way to order a cold coffee with milk and ice.\n🇰🇭 ខ្មែរ៖ តើខ្ញុំអាចសុំកាហ្វេឡាតេទឹកកកមួយកែវបានទេ? 💡 Meaning: Polite phrasing to add a pastry or food item to your order.\n🇰🇭 ខ្មែរ៖ ខ្ញុំសុំនំប៉័ងសូកូឡាមួយដែរ សូមអរគុណ។"
+  },
+  {
+   "title": "Preferences · ការជ្រើសរើសជម្រើស",
+   "ko": "Could you make that with less sugar, please? Is that for here or to go? To go, please. Thank you!",
+   "en": "💡 Meaning: Asking the barista to customize the sweetness level of your drink.\n🇰🇭 ខ្មែរ៖ តើអាចជួយធ្វើដោយដាក់ស្ករតិចបានទេ? 💡 Meaning: Asking if you will drink inside the cafe or take it away.\n🇰🇭 ខ្មែរ៖ តើអ្នកពិសារនៅទីនេះ ឬខ្ចប់ទៅក្រៅ? 💡 Meaning: Telling the cashier that you want your order packed in a takeaway cup.\n🇰🇭 ខ្មែរ៖ ខ្ចប់ទៅក្រៅ សូមអរគុណ!"
+  },
+  {
+   "title": "Payment · ការទូទាត់ប្រាក់",
+   "ko": "How much is the total? Can I pay by credit card?",
+   "en": "💡 Meaning: Asking for the final price of everything you ordered.\n🇰🇭 ខ្មែរ៖ តើសរុបទាំងអស់ថ្លៃប៉ុន្មានដែរ? 💡 Meaning: Inquiring whether the shop accepts cashless card payments.\n🇰🇭 ខ្មែរ៖ តើខ្ញុំអាចទូទាត់តាមកាតឥណទានបានទេ?"
+  }
+ ]
+}
