@@ -269,7 +269,7 @@ body.hide-fen .fen,body.hide-fen .fsub,body.hide-fen .fv span{display:none}
   .card .num{height:1.35rem;min-width:1.9rem;font-size:.72rem;box-shadow:none;background:none;color:var(--ink-2);padding:0}
   .card .ctop{float:left;margin:.15rem .4rem 0 0}
   .card .ko{margin:0;font-size:1rem;line-height:1.5}
-  .card .en{font-size:.82rem;margin-top:.1rem}
+  .card .en{font-size:.82rem;margin-top:.1rem;white-space:pre-line}
   .card .prog{display:none}
   .rplay{display:grid;width:38px;height:38px;box-shadow:none}
   .card:hover{background:color-mix(in srgb,var(--ink) 4%,var(--surface))}
@@ -289,7 +289,7 @@ body.hide-fen .fen,body.hide-fen .fsub,body.hide-fen .fv span{display:none}
 }
 @media (min-width:960px){
   .card .ko{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;line-clamp:2;overflow:hidden}
-  .card .en{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:1;line-clamp:1;overflow:hidden}
+  .card .en{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:4;line-clamp:4;overflow:hidden}
   body.hide-ko .card .ko:not(.shown){display:block;height:1.5em}
 }
 

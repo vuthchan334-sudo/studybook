@@ -74,7 +74,7 @@
    "alt": "A morning sun rising over the horizon",
    "hook": "Morning",
    "ko": "Good morning! How are you doing today?",
-   "en": "អរុណសួស្តី! តើអ្នកសុខសប្បាយជាទេថ្ងៃនេះ?",
+   "en": "💡 Meaning: A polite morning greeting asking how someone is feeling or doing.\n🇰🇭 ខ្មែរ៖ អរុណសួស្តី! តើអ្នកសុខសប្បាយជាទេថ្ងៃនេះ?",
    "audio": "audio/c1.mp3"
   },
   {
@@ -84,7 +84,7 @@
    "alt": "A cheerful smiling face",
    "hook": "Doing well",
    "ko": "I am doing well, thank you. And you?",
-   "en": "ខ្ញុំសុខសប្បាយធម្មតាទេ អរគុណច្រើន។ ចុះអ្នកវិញ?",
+   "en": "💡 Meaning: A positive response showing gratitude and asking back about the other person.\n🇰🇭 ខ្មែរ៖ ខ្ញុំសុខសប្បាយធម្មតាទេ អរគុណច្រើន។ ចុះអ្នកវិញ?",
    "audio": "audio/c2.mp3"
   },
   {
@@ -94,7 +94,7 @@
    "alt": "An identification badge with a photo slot",
    "hook": "Name",
    "ko": "My name is Vuthchan. It is nice to meet you.",
-   "en": "ខ្ញុំឈ្មោះ វុឌ្ឍច័ន្ទ។ រីករាយណាស់ដែលបានស្គាល់អ្នក។",
+   "en": "💡 Meaning: Used to state your name and express pleasure in meeting someone for the first time.\n🇰🇭 ខ្មែរ៖ ខ្ញុំឈ្មោះ វុឌ្ឍច័ន្ទ។ រីករាយណាស់ដែលបានស្គាល់អ្នក។",
    "audio": "audio/c3.mp3"
   },
   {
@@ -104,7 +104,7 @@
    "alt": "A location map pin mark",
    "hook": "From",
    "ko": "I am from Cambodia. Where are you from?",
-   "en": "ខ្ញុំមកពីប្រទេសកម្ពុជា។ តើអ្នកមកពីណាដែរ?",
+   "en": "💡 Meaning: Tells your country of origin and asks about the other person's hometown or country.\n🇰🇭 ខ្មែរ៖ ខ្ញុំមកពីប្រទេសកម្ពុជា។ តើអ្នកមកពីណាដែរ?",
    "audio": "audio/c4.mp3"
   },
   {
@@ -114,7 +114,7 @@
    "alt": "A warm coffee cup with steam",
    "hook": "Day",
    "ko": "How has your day been so far?",
-   "en": "តើថ្ងៃនេះអ្នកយ៉ាងម៉េចដែរ?",
+   "en": "💡 Meaning: A friendly small-talk question asking about someone's activities and mood today.\n🇰🇭 ខ្មែរ៖ តើថ្ងៃនេះអ្នកយ៉ាងម៉េចដែរ?",
    "audio": "audio/c5.mp3"
   },
   {
@@ -124,7 +124,7 @@
    "alt": "Two chat message bubbles",
    "hook": "Help",
    "ko": "Could you please help me with this?",
-   "en": "តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?",
+   "en": "💡 Meaning: A polite request asking someone for assistance or guidance on a task.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?",
    "audio": "audio/c6.mp3"
   },
   {
@@ -134,7 +134,7 @@
    "alt": "A clock showing the time to go",
    "hook": "Leave",
    "ko": "I have to get going now. It was great talking to you.",
-   "en": "ខ្ញុំត្រូវទៅឥឡូវនេះហើយ។ រីករាយណាស់ដែលបានជជែកជាមួយអ្នក។",
+   "en": "💡 Meaning: A polite way to end a conversation when you need to leave.\n🇰🇭 ខ្មែរ៖ ខ្ញុំត្រូវទៅឥឡូវនេះហើយ។ រីករាយណាស់ដែលបានជជែកជាមួយអ្នក។",
    "audio": "audio/c7.mp3"
   },
   {
@@ -144,7 +144,7 @@
    "alt": "A friendly waving hand",
    "hook": "Later",
    "ko": "Have a wonderful day and see you later!",
-   "en": "សូមឱ្យមានថ្ងៃដ៏ល្អ ហើយជួបគ្នាពេលក្រោយ!",
+   "en": "💡 Meaning: A warm farewell wishing someone well until the next time you meet.\n🇰🇭 ខ្មែរ៖ សូមឱ្យមានថ្ងៃដ៏ល្អ ហើយជួបគ្នាពេលក្រោយ!",
    "audio": "audio/c8.mp3"
   }
  ],
@@ -157,7 +157,7 @@
      "q": "How should I respond to 'How are you?'",
      "qen": "តើខ្ញុំគួរឆ្លើយតបយ៉ាងដូចម្តេចចំពោះសំណួរ 'How are you?'",
      "a": "A natural reply is 'I am doing well, thank you! How about you?' rather than only saying 'I am fine'.",
-     "aen": "ចម្លើយដែលពិរោះ និងធម្មជាតិគឺ 'I am doing well, thank you! How about you?' ជាជាងឆ្លើយតែមួយម៉ាត់ 'I am fine'។",
+     "aen": "💡 English: Saying 'I am doing well' and asking back shows genuine courtesy.\n🇰🇭 ខ្មែរ៖ ចម្លើយបែបធម្មជាតិគឺ 'I am doing well, thank you! How about you?' ជាជាងឆ្លើយតែមួយម៉ាត់ 'I am fine'។",
      "why": "Asking 'How about you?' returns the courtesy and keeps the conversation flowing smoothly.",
      "audio": "audio/qa1.mp3"
     }
@@ -171,7 +171,7 @@
      "q": "How do I tell someone what I do?",
      "qen": "តើខ្ញុំគួរប្រាប់គេអំពីការងារ ឬការរៀនសូត្ររបស់ខ្ញុំយ៉ាងដូចម្តេច?",
      "a": "You can say 'I work in technology' or 'I am learning English right now'.",
-     "aen": "អ្នកអាចនិយាយថា 'I work in technology' ឬ 'I am learning English right now'។",
+     "aen": "💡 English: Use 'I work in [field]' or 'I am learning [subject]'.\n🇰🇭 ខ្មែរ៖ អ្នកអាចនិយាយថា 'I work in technology' ឬ 'I am learning English right now'។",
      "audio": "audio/qa2.mp3"
     }
    ]
@@ -182,12 +182,12 @@
    "items": [
     {
      "ko": "Could you please speak a little slower?",
-     "en": "តើអ្នកអាចជួយនិយាយយឺតៗបន្តិចបានទេ?",
+     "en": "💡 English: Requesting the speaker to reduce speed · 🇰🇭 តើអ្នកអាចជួយនិយាយយឺតៗបន្តិចបានទេ?",
      "audio": "audio/s1.mp3"
     },
     {
      "ko": "Sorry, could you repeat that again?",
-     "en": "សុំទោស តើអ្នកអាចជួយនិយាយម្តងទៀតបានទេ?",
+     "en": "💡 English: Asking someone to repeat what was just said · 🇰🇭 សុំទោស តើអ្នកអាចជួយនិយាយម្តងទៀតបានទេ?",
      "audio": "audio/s2.mp3"
     }
    ]
@@ -200,22 +200,22 @@
    "items": [
     {
      "ko": "Hello",
-     "en": "សួស្តី",
+     "en": "💡 Used as a greeting when meeting someone · 🇰🇭 សួស្តី",
      "audio": "audio/v01.mp3"
     },
     {
      "ko": "Good morning",
-     "en": "អរុណសួស្តី",
+     "en": "💡 Polite greeting used from early morning until noon · 🇰🇭 អរុណសួស្តី",
      "audio": "audio/v02.mp3"
     },
     {
      "ko": "Good afternoon",
-     "en": "ទិវាសួស្តី (ពេលរសៀល)",
+     "en": "💡 Greeting used from noon until late afternoon · 🇰🇭 ទិវាសួស្តី (ពេលរសៀល)",
      "audio": "audio/v03.mp3"
     },
     {
      "ko": "Nice to meet you",
-     "en": "រីករាយដែលបានស្គាល់",
+     "en": "💡 Polite expression when meeting someone for the first time · 🇰🇭 រីករាយដែលបានស្គាល់",
      "audio": "audio/v04.mp3"
     }
    ]
@@ -226,22 +226,22 @@
    "items": [
     {
      "ko": "Thank you",
-     "en": "អរគុណ",
+     "en": "💡 Expression of appreciation and gratitude · 🇰🇭 អរគុណ",
      "audio": "audio/v05.mp3"
     },
     {
      "ko": "You are welcome",
-     "en": "មិនអីទេ / ដោយក្តីរីករាយ",
+     "en": "💡 Polite response when someone thanks you · 🇰🇭 មិនអីទេ / ដោយក្តីរីករាយ",
      "audio": "audio/v06.mp3"
     },
     {
      "ko": "Excuse me",
-     "en": "សុំទោស / សុំការអនុញ្ញាត",
+     "en": "💡 Used to politely get attention or apologize briefly · 🇰🇭 សុំទោស / សុំការអនុញ្ញាត",
      "audio": "audio/v07.mp3"
     },
     {
      "ko": "Please",
-     "en": "សូម / មេត្តា",
+     "en": "💡 Polite word used when making a request · 🇰🇭 សូម / មេត្តា",
      "audio": "audio/v08.mp3"
     }
    ]
@@ -252,22 +252,22 @@
    "items": [
     {
      "ko": "Goodbye",
-     "en": "លាហើយ",
+     "en": "💡 Expression used when parting or leaving someone · 🇰🇭 លាហើយ",
      "audio": "audio/v09.mp3"
     },
     {
      "ko": "See you soon",
-     "en": "ជួបគ្នាឆាប់ៗ",
+     "en": "💡 Friendly farewell expecting to meet again soon · 🇰🇭 ជួបគ្នាឆាប់ៗ",
      "audio": "audio/v10.mp3"
     },
     {
      "ko": "Take care",
-     "en": "ថែរក្សាខ្លួន",
+     "en": "💡 Caring expression wishing safety and health · 🇰🇭 ថែរក្សាខ្លួន",
      "audio": "audio/v11.mp3"
     },
     {
      "ko": "Have a nice day",
-     "en": "សូមឱ្យមានថ្ងៃល្អ",
+     "en": "💡 Polite wish for someone to enjoy the rest of their day · 🇰🇭 សូមឱ្យមានថ្ងៃល្អ",
      "audio": "audio/v12.mp3"
     }
    ]
@@ -277,22 +277,22 @@
   {
    "title": "Greetings · ការស្វាគមន៍",
    "ko": "Good morning! How are you doing today? I am doing well, thank you. And you?",
-   "en": "អរុណសួស្តី! តើអ្នកសុខសប្បាយជាទេថ្ងៃនេះ? ខ្ញុំសុខសប្បាយធម្មតាទេ អរគុណច្រើន។ ចុះអ្នកវិញ?"
+   "en": "💡 Meaning: A polite morning greeting asking how someone is feeling or doing.\n🇰🇭 ខ្មែរ៖ អរុណសួស្តី! តើអ្នកសុខសប្បាយជាទេថ្ងៃនេះ? 💡 Meaning: A positive response showing gratitude and asking back about the other person.\n🇰🇭 ខ្មែរ៖ ខ្ញុំសុខសប្បាយធម្មតាទេ អរគុណច្រើន។ ចុះអ្នកវិញ?"
   },
   {
    "title": "Introductions · ការណែនាំខ្លួន",
    "ko": "My name is Vuthchan. It is nice to meet you. I am from Cambodia. Where are you from?",
-   "en": "ខ្ញុំឈ្មោះ វុឌ្ឍច័ន្ទ។ រីករាយណាស់ដែលបានស្គាល់អ្នក។ ខ្ញុំមកពីប្រទេសកម្ពុជា។ តើអ្នកមកពីណាដែរ?"
+   "en": "💡 Meaning: Used to state your name and express pleasure in meeting someone for the first time.\n🇰🇭 ខ្មែរ៖ ខ្ញុំឈ្មោះ វុឌ្ឍច័ន្ទ។ រីករាយណាស់ដែលបានស្គាល់អ្នក។ 💡 Meaning: Tells your country of origin and asks about the other person's hometown or country.\n🇰🇭 ខ្មែរ៖ ខ្ញុំមកពីប្រទេសកម្ពុជា។ តើអ្នកមកពីណាដែរ?"
   },
   {
    "title": "Small Talk · ការសន្ទនាទូទៅ",
    "ko": "How has your day been so far? Could you please help me with this?",
-   "en": "តើថ្ងៃនេះអ្នកយ៉ាងម៉េចដែរ? តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?"
+   "en": "💡 Meaning: A friendly small-talk question asking about someone's activities and mood today.\n🇰🇭 ខ្មែរ៖ តើថ្ងៃនេះអ្នកយ៉ាងម៉េចដែរ? 💡 Meaning: A polite request asking someone for assistance or guidance on a task.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចជួយខ្ញុំបន្តិចបានទេ?"
   },
   {
    "title": "Goodbyes · ការលាគ្នា",
    "ko": "I have to get going now. It was great talking to you. Have a wonderful day and see you later!",
-   "en": "ខ្ញុំត្រូវទៅឥឡូវនេះហើយ។ រីករាយណាស់ដែលបានជជែកជាមួយអ្នក។ សូមឱ្យមានថ្ងៃដ៏ល្អ ហើយជួបគ្នាពេលក្រោយ!"
+   "en": "💡 Meaning: A polite way to end a conversation when you need to leave.\n🇰🇭 ខ្មែរ៖ ខ្ញុំត្រូវទៅឥឡូវនេះហើយ។ រីករាយណាស់ដែលបានជជែកជាមួយអ្នក។ 💡 Meaning: A warm farewell wishing someone well until the next time you meet.\n🇰🇭 ខ្មែរ៖ សូមឱ្យមានថ្ងៃដ៏ល្អ ហើយជួបគ្នាពេលក្រោយ!"
   }
  ]
 }
