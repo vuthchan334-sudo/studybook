@@ -1,0 +1,324 @@
+{
+ "slug": "tech-software-and-ai",
+ "title_ko": "Tech, Modern Software & AI",
+ "title_en": "បច្ចេកវិទ្យា វិស្វកម្មផ្នែកទន់ និង AI",
+ "subtitle": "Essential terminology for engineering, cloud architecture, and artificial intelligence",
+ "description": "Learn professional engineering English: cloud scalability, identifying bottlenecks, technical debt, prompt engineering, fine-tuning, latency, and deployment pipelines.",
+ "published": "2026-11-10",
+ "station_en": "Software & AI",
+ "sections": [
+  {
+   "id": "arch",
+   "ko": "Cloud & Architecture",
+   "en": "ហេដ្ឋារចនាសម្ព័ន្ធ និងប្រព័ន្ធ Cloud",
+   "color": "#0052A4"
+  },
+  {
+   "id": "code",
+   "ko": "Codebase & Pipelines",
+   "en": "វិស្វកម្មកូដ និងប្រព័ន្ធស្វ័យប្រវត្ត",
+   "color": "#00A84D"
+  },
+  {
+   "id": "ai",
+   "ko": "Artificial Intelligence",
+   "en": "បញ្ញាសិប្បនិម្មិត និងម៉ូឌែល AI",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "perf",
+   "ko": "Performance & Hardware",
+   "en": "ល្បឿន និងប្រសិទ្ធភាពដំណើរការ",
+   "color": "#996CAC"
+  }
+ ],
+ "spine": {
+  "title": "Engineering Stack · ស្រទាប់បច្ចេកវិទ្យា",
+  "note": "From cloud foundations and clean pipelines to bleeding-edge AI models and high-throughput low-latency execution."
+ },
+ "explain": {
+  "title": "At a glance · មើលមួយភ្លែត",
+  "why": "Modern software engineering bridges clean design patterns with scalable distributed cloud systems and intelligent AI agents.",
+  "tiles": [
+   {
+    "img": "img/x-cloud.svg",
+    "ko": "Scalability",
+    "en": "High availability clouds",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-code.svg",
+    "ko": "Pipelines",
+    "en": "CI/CD & refactoring",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-ai.svg",
+    "ko": "AI Models",
+    "en": "Fine-tuning & prompts",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-speed.svg",
+    "ko": "Throughput",
+    "en": "Low latency at the edge",
+    "color": "#996CAC"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "arch",
+   "img": "img/c1-server.svg",
+   "flat": true,
+   "alt": "A rack of scalable cloud servers",
+   "hook": "Scalability",
+   "ko": "Our distributed architecture ensures high availability and seamless horizontal scalability.",
+   "en": "💡 Meaning: The cloud system can handle massive user growth without crashing or going offline.\n🇰🇭 ខ្មែរ៖ ស្ថាបត្យកម្មប្រព័ន្ធចែករំលែករបស់យើង ធានាបាននូវភាពអាចដំណើរការបានខ្ពស់ (high availability) និងសមត្ថភាពពង្រីកទំហំប្រព័ន្ធ (scalability) ដោយរលូន។",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "arch",
+   "img": "img/c2-funnel.svg",
+   "flat": true,
+   "alt": "A funnel showing a traffic constraint",
+   "hook": "Bottleneck",
+   "ko": "Database queries were the primary bottleneck slowing down overall system response.",
+   "en": "💡 Meaning: A single point of congestion that restricts the flow and slows the entire application.\n🇰🇭 ខ្មែរ៖ ការទាញទិន្នន័យ (Database queries) គឺជាចំណុចកកស្ទះចម្បង (bottleneck) ដែលធ្វើឱ្យល្បឿនឆ្លើយតបនៃប្រព័ន្ធទាំងមូលធ្លាក់ចុះ។",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "code",
+   "img": "img/c3-refactor.svg",
+   "flat": true,
+   "alt": "Circular arrows showing code refactoring",
+   "hook": "Refactoring",
+   "ko": "Refactoring legacy code reduces technical debt and makes future feature rollout much faster.",
+   "en": "💡 Meaning: Restructuring existing code without altering its external behavior to improve maintainability.\n🇰🇭 ខ្មែរ៖ ការរៀបចំកូដចាស់ៗឡើងវិញ (Refactoring) ជួយកាត់បន្ថយបំណុលបច្ចេកទេស (technical debt) និងធ្វើឱ្យការបញ្ចេញមុខងារថ្មីៗកាន់តែរហ័ស។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "code",
+   "img": "img/c4-pipe.svg",
+   "flat": true,
+   "alt": "An automated delivery pipeline tube",
+   "hook": "Pipeline",
+   "ko": "Every commit passes through an automated continuous integration and deployment pipeline.",
+   "en": "💡 Meaning: Code is automatically tested, built, and shipped to production servers without manual human delay.\n🇰🇭 ខ្មែរ៖ រាល់កូដដែលត្រូវបានបញ្ជូន (Commit) ត្រូវឆ្លងកាត់ប្រព័ន្ធស្វ័យប្រវត្តិនៃការត្រួតពិនិត្យ និងការបញ្ចេញឱ្យប្រើប្រាស់ (CI/CD pipeline)។",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "ai",
+   "img": "img/c5-brain.svg",
+   "flat": true,
+   "alt": "An artificial neural network brain",
+   "hook": "Prompting",
+   "ko": "Effective prompt engineering allows large language models to generate precise structured outputs.",
+   "en": "💡 Meaning: Crafting optimal input instructions so AI delivers exact, reliable, high-quality results.\n🇰🇭 ខ្មែរ៖ ជំនាញក្នុងការរៀបចំសំណួរ និងបញ្ជា AI (prompt engineering) ជួយឱ្យម៉ូឌែលភាសាធំៗអាចបង្កើតលទ្ធផលដែលមានរចនាសម្ព័ន្ធ និងសុក្រឹតបំផុត។",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "ai",
+   "img": "img/c6-tune.svg",
+   "flat": true,
+   "alt": "Tuning sliders for AI model weights",
+   "hook": "Fine-tuning",
+   "ko": "We are fine-tuning an open-source model on proprietary domain-specific dataset.",
+   "en": "💡 Meaning: Training a pre-trained base AI further using specialized company data for superior domain accuracy.\n🇰🇭 ខ្មែរ៖ យើងកំពុងបង្វឹកកែសម្រួលបន្ថែម (fine-tuning) លើម៉ូឌែល AI កូដចំហ ដោយប្រើប្រាស់ទិន្នន័យឯកទេសផ្ទាល់ខ្លួនរបស់យើង។",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "perf",
+   "img": "img/c7-latency.svg",
+   "flat": true,
+   "alt": "A low response time gauge",
+   "hook": "Latency",
+   "ko": "By deploying servers closer to users, we achieved ultra-low latency and higher throughput.",
+   "en": "💡 Meaning: Minimizing delay (latency) and maximizing the volume of processed data per second (throughput).\n🇰🇭 ខ្មែរ៖ តាមរយៈការដាក់ម៉ាស៊ីនបម្រើ (Servers) នៅក្បែរអ្នកប្រើប្រាស់ យើងសម្រេចបាននូវភាពយឺតយ៉ាវទាបបំផុត (ultra-low latency) និងល្បឿនដំណើរការទិន្នន័យខ្ពស់។",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "perf",
+   "img": "img/c8-chip.svg",
+   "flat": true,
+   "alt": "An advanced microchip processor",
+   "hook": "Edge computing",
+   "ko": "Processing inference directly on edge devices protects privacy and cuts cloud hosting expenses.",
+   "en": "💡 Meaning: Running AI computation locally on phones or edge hardware rather than sending private data to remote cloud servers.\n🇰🇭 ខ្មែរ៖ ការដំណើរការគណនា AI ដោយផ្ទាល់នៅលើឧបករណ៍ចុងក្រោយ (Edge computing) ជួយការពារឯកជនភាព និងកាត់បន្ថយការចំណាយលើសេវា Cloud។",
+   "audio": "audio/c08.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "Tech Misconceptions · ការយល់ច្រឡំលើពាក្យបច្ចេកវិទ្យា",
+   "items": [
+    {
+     "q": "What is the real difference between latency and throughput?",
+     "qen": "សំណួរ៖ តើអ្វីជាភាពខុសគ្នាពិតប្រាកដរវាង Latency និង Throughput?",
+     "a": "Latency is the time delay for a single data packet to travel, whereas throughput is the total volume of data transferred over time.",
+     "aen": "💡 English: Think of latency as speed of a car, and throughput as the number of lanes on a highway.\n🇰🇭 ខ្មែរ៖ Latency គឺជាពេលវេលាយឺតយ៉ាវក្នុងការធ្វើដំណើរនៃទិន្នន័យមួយកញ្ចប់ ចំណែកឯ Throughput គឺជាបរិមាណទិន្នន័យសរុបដែលអាចឆ្លងកាត់បានក្នុងមួយវិនាទី។",
+     "why": "Confusing latency and throughput leads to buying the wrong server infrastructure.",
+     "audio": "audio/qa1.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "System Design Questions · សំណួររចនាប្រព័ន្ធ",
+   "items": [
+    {
+     "q": "What does technical debt mean to a software engineering team?",
+     "qen": "សំណួរ៖ តើ 'Technical Debt' (បំណុលបច្ចេកទេស) មានន័យដូចម្តេចចំពោះក្រុមវិស្វករ?",
+     "a": "It is the future cost of rework caused by choosing an easy quick fix now instead of a well-designed sustainable solution.",
+     "aen": "💡 English: Like financial debt, tech debt accrues interest and makes all future development slower and riskier.\n🇰🇭 ខ្មែរ៖ វាគឺជាការចំណាយពេលវេលា និងថវិកាក្នុងការជួសជុលនាពេលអនាគត ដែលបណ្តាលមកពីការជ្រើសរើសវិធីដោះស្រាយកាត់ៗនៅពេលនេះ ជាជាងការរចនាកូដឱ្យបានត្រឹមត្រូវ។",
+     "audio": "audio/qa2.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "Technical Clarifications · ឃ្លាសួរនាំក្នុងការងារបច្ចេកវិទ្យា",
+   "items": [
+    {
+     "ko": "Is this service stateful or completely stateless?",
+     "en": "💡 English: Inquiring whether the application retains session data across requests · 🇰🇭 តើសេវាកម្មនេះរក្សាទុកទិន្នន័យ Session (Stateful) ឬគ្មានការរក្សាទុក (Stateless)?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "What is our rollback strategy if the production deployment fails?",
+     "en": "💡 English: Asking for the emergency contingency plan to revert code safely · 🇰🇭 តើយុទ្ធសាស្ត្រទាញកូដចាស់មកវិញ (Rollback) របស់យើងមានទម្រង់បែបណា ប្រសិនបើការបញ្ចេញប្រព័ន្ធមានបញ្ហា?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Cloud & Infrastructure · ប្រព័ន្ធ Cloud",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "Scalability",
+     "en": "💡 The capacity to handle growing amounts of work by adding resources · 🇰🇭 សមត្ថភាពក្នុងការពង្រីកទំហំប្រព័ន្ធ",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "High availability",
+     "en": "💡 Systems engineered to remain continuously operational without interruption · 🇰🇭 ភាពអាចដំណើរការបានខ្ពស់ មិនងាយគាំង",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "Bottleneck",
+     "en": "💡 A constraint point that congests and slows down overall throughput · 🇰🇭 ចំណុចកកស្ទះដែលបន្ថយល្បឿន",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "Distributed system",
+     "en": "💡 Software whose components reside on multiple networked computers · 🇰🇭 ប្រព័ន្ធកុំព្យូទ័រដែលបែងចែកលើបណ្តាញច្រើន",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Engineering Practices · វិស្វកម្មផ្នែកទន់",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "Refactoring",
+     "en": "💡 Restructuring code to improve internal design without changing behavior · 🇰🇭 ការរៀបចំកូដឡើងវិញឱ្យស្អាត និងមានរបៀប",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "Technical debt",
+     "en": "💡 Implied cost of additional future rework caused by expedient shortcuts · 🇰🇭 បំណុលបច្ចេកទេស ពីការសរសេរកូដកាត់ៗ",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "Deployment pipeline",
+     "en": "💡 Automated sequence of stages for compiling, testing, and shipping code · 🇰🇭 ប្រព័ន្ធស្វ័យប្រវត្តិនៃការបញ្ចេញកូដ",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "Rollback",
+     "en": "💡 An operation that restores a database or software to a previous clean state · 🇰🇭 ការទាញយកកំណែកូដមុនមកប្រើវិញពេលមានបញ្ហា",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Artificial Intelligence · បញ្ញាសិប្បនិម្មិត",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "Prompt engineering",
+     "en": "💡 Structuring instructions to guide generative AI models toward optimal output · 🇰🇭 ជំនាញរៀបចំសំណួរ និងបញ្ជា AI",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "Fine-tuning",
+     "en": "💡 Adapting a pre-trained model to specific tasks using custom training data · 🇰🇭 ការបង្វឹកកែសម្រួល AI បន្ថែមលើទិន្នន័យជាក់លាក់",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "Inference",
+     "en": "💡 The process of running live data through a trained model to make predictions · 🇰🇭 ដំណើរការគណនាទស្សន៍ទាយរបស់ AI ជាក់ស្តែង",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "Hallucination",
+     "en": "💡 When an AI model generates factually incorrect or fabricated information confidently · 🇰🇭 ការឆ្លើយខុស ឬការស្រមើស្រមៃខុសការពិតរបស់ AI",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Performance & Hardware · ល្បឿន និងសមត្ថភាព",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "Latency",
+     "en": "💡 The time delay between a request initiation and its execution · 🇰🇭 រយៈពេលយឺតយ៉ាវនៃការឆ្លើយតប",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "Throughput",
+     "en": "💡 The amount of material or data processed through a system in a given time · 🇰🇭 បរិមាណទិន្នន័យដែលដំណើរការបានក្នុងមួយឯកតាពេល",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "Edge computing",
+     "en": "💡 Computation and data storage performed near the physical source of data · 🇰🇭 ការគណនាទិន្នន័យនៅក្បែរប្រភពឧបករណ៍ផ្ទាល់",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "Paradigm shift",
+     "en": "💡 A fundamental change in approach, methodology, or underlying assumptions · 🇰🇭 ការផ្លាស់ប្តូរផ្នត់គំនិត ឬបច្ចេកវិទ្យាទាំងស្រុង",
+     "audio": "audio/v16.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "Cloud & Architecture · ហេដ្ឋារចនាសម្ព័ន្ធ និងប្រព័ន្ធ Cloud",
+   "ko": "Our distributed architecture ensures high availability and seamless horizontal scalability. Database queries were the primary bottleneck slowing down overall system response.",
+   "en": "💡 Meaning: The cloud system can handle massive user growth without crashing or going offline.\n🇰🇭 ខ្មែរ៖ ស្ថាបត្យកម្មប្រព័ន្ធចែករំលែករបស់យើង ធានាបាននូវភាពអាចដំណើរការបានខ្ពស់ (high availability) និងសមត្ថភាពពង្រីកទំហំប្រព័ន្ធ (scalability) ដោយរលូន។ 💡 Meaning: A single point of congestion that restricts the flow and slows the entire application.\n🇰🇭 ខ្មែរ៖ ការទាញទិន្នន័យ (Database queries) គឺជាចំណុចកកស្ទះចម្បង (bottleneck) ដែលធ្វើឱ្យល្បឿនឆ្លើយតបនៃប្រព័ន្ធទាំងមូលធ្លាក់ចុះ។"
+  },
+  {
+   "title": "Codebase & Pipelines · វិស្វកម្មកូដ និងប្រព័ន្ធស្វ័យប្រវត្ត",
+   "ko": "Refactoring legacy code reduces technical debt and makes future feature rollout much faster. Every commit passes through an automated continuous integration and deployment pipeline.",
+   "en": "💡 Meaning: Restructuring existing code without altering its external behavior to improve maintainability.\n🇰🇭 ខ្មែរ៖ ការរៀបចំកូដចាស់ៗឡើងវិញ (Refactoring) ជួយកាត់បន្ថយបំណុលបច្ចេកទេស (technical debt) និងធ្វើឱ្យការបញ្ចេញមុខងារថ្មីៗកាន់តែរហ័ស។ 💡 Meaning: Code is automatically tested, built, and shipped to production servers without manual human delay.\n🇰🇭 ខ្មែរ៖ រាល់កូដដែលត្រូវបានបញ្ជូន (Commit) ត្រូវឆ្លងកាត់ប្រព័ន្ធស្វ័យប្រវត្តិនៃការត្រួតពិនិត្យ និងការបញ្ចេញឱ្យប្រើប្រាស់ (CI/CD pipeline)។"
+  },
+  {
+   "title": "Artificial Intelligence · បញ្ញាសិប្បនិម្មិត និងម៉ូឌែល AI",
+   "ko": "Effective prompt engineering allows large language models to generate precise structured outputs. We are fine-tuning an open-source model on proprietary domain-specific dataset.",
+   "en": "💡 Meaning: Crafting optimal input instructions so AI delivers exact, reliable, high-quality results.\n🇰🇭 ខ្មែរ៖ ជំនាញក្នុងការរៀបចំសំណួរ និងបញ្ជា AI (prompt engineering) ជួយឱ្យម៉ូឌែលភាសាធំៗអាចបង្កើតលទ្ធផលដែលមានរចនាសម្ព័ន្ធ និងសុក្រឹតបំផុត។ 💡 Meaning: Training a pre-trained base AI further using specialized company data for superior domain accuracy.\n🇰🇭 ខ្មែរ៖ យើងកំពុងបង្វឹកកែសម្រួលបន្ថែម (fine-tuning) លើម៉ូឌែល AI កូដចំហ ដោយប្រើប្រាស់ទិន្នន័យឯកទេសផ្ទាល់ខ្លួនរបស់យើង។"
+  },
+  {
+   "title": "Performance & Hardware · ល្បឿន និងប្រសិទ្ធភាពដំណើរការ",
+   "ko": "By deploying servers closer to users, we achieved ultra-low latency and higher throughput. Processing inference directly on edge devices protects privacy and cuts cloud hosting expenses.",
+   "en": "💡 Meaning: Minimizing delay (latency) and maximizing the volume of processed data per second (throughput).\n🇰🇭 ខ្មែរ៖ តាមរយៈការដាក់ម៉ាស៊ីនបម្រើ (Servers) នៅក្បែរអ្នកប្រើប្រាស់ យើងសម្រេចបាននូវភាពយឺតយ៉ាវទាបបំផុត (ultra-low latency) និងល្បឿនដំណើរការទិន្នន័យខ្ពស់។ 💡 Meaning: Running AI computation locally on phones or edge hardware rather than sending private data to remote cloud servers.\n🇰🇭 ខ្មែរ៖ ការដំណើរការគណនា AI ដោយផ្ទាល់នៅលើឧបករណ៍ចុងក្រោយ (Edge computing) ជួយការពារឯកជនភាព និងកាត់បន្ថយការចំណាយលើសេវា Cloud។"
+  }
+ ]
+}

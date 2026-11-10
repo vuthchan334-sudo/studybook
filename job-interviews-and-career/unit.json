@@ -1,0 +1,324 @@
+{
+ "slug": "job-interviews-and-career",
+ "title_ko": "Job Interviews & Career Success",
+ "title_en": "ការសម្ភាសន៍ការងារ និងការអភិវឌ្ឍអាជីព",
+ "subtitle": "How to showcase your strengths, answer tough questions, and negotiate professionally",
+ "description": "Professional English vocabulary and frameworks for interviews: pitch your background, articulate quantifiable achievements, frame weaknesses productively, and ask strategic closing questions.",
+ "published": "2026-11-10",
+ "station_en": "Career & Interviews",
+ "sections": [
+  {
+   "id": "intro",
+   "ko": "Professional Intro",
+   "en": "ការណែនាំប្រវត្តិរូប",
+   "color": "#0052A4"
+  },
+  {
+   "id": "strengths",
+   "ko": "Key Strengths",
+   "en": "ចំណុចខ្លាំងស្នូល",
+   "color": "#00A84D"
+  },
+  {
+   "id": "challenges",
+   "ko": "Overcoming Challenges",
+   "en": "ការដោះស្រាយបញ្ហាប្រឈម",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "closing",
+   "ko": "Closing & Strategy",
+   "en": "ការសួរសំណួរ និងការចរចា",
+   "color": "#996CAC"
+  }
+ ],
+ "spine": {
+  "title": "Interview Flow · ដំណាក់កាលសម្ភាសន៍",
+  "note": "From a crisp elevator pitch to backing claims with numbers, answering pressure questions, and closing with high strategic value."
+ },
+ "explain": {
+  "title": "At a glance · មើលមួយភ្លែត",
+  "why": "A great interview is not an interrogation; it is a structured business dialogue demonstrating mutual fit, competency, and vision.",
+  "tiles": [
+   {
+    "img": "img/x-pitch.svg",
+    "ko": "Elevator Pitch",
+    "en": "Concise 60-second summary",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-track.svg",
+    "ko": "Track Record",
+    "en": "Measurable past wins",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-growth.svg",
+    "ko": "Growth Mindset",
+    "en": "Self-awareness & learning",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-fit.svg",
+    "ko": "Culture Fit",
+    "en": "Shared goals & values",
+    "color": "#996CAC"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "intro",
+   "img": "img/c1-cv.svg",
+   "flat": true,
+   "alt": "A professional resume profile sheet",
+   "hook": "Background",
+   "ko": "Could you walk us through your professional background?",
+   "en": "💡 Meaning: The classic opening question asking for a concise summary of your career journey.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចជួយរៀបរាប់សង្ខេបអំពីប្រវត្តិការងារ និងបទពិសោធន៍របស់អ្នកបានទេ?",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "intro",
+   "img": "img/c2-briefcase.svg",
+   "flat": true,
+   "alt": "A business executive briefcase",
+   "hook": "Expertise",
+   "ko": "I bring over five years of hands-on experience in software development and project coordination.",
+   "en": "💡 Meaning: A strong opening elevator pitch stating your core expertise and years of direct practice.\n🇰🇭 ខ្មែរ៖ ខ្ញុំមានបទពិសោធន៍ជាក់ស្តែងជាង ៥ ឆ្នាំក្នុងការអភិវឌ្ឍផ្នែកទន់ (Software) និងការសម្របសម្រួលគម្រោង។",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "strengths",
+   "img": "img/c3-puzzle.svg",
+   "flat": true,
+   "alt": "Two interlocking puzzle pieces",
+   "hook": "Strength",
+   "ko": "My greatest strength is breaking down complex problems into clear, actionable steps.",
+   "en": "💡 Meaning: Explaining your analytical ability to simplify difficult situations into practical tasks.\n🇰🇭 ខ្មែរ៖ ចំណុចខ្លាំងបំផុតរបស់ខ្ញុំ គឺសមត្ថភាពក្នុងការបំបែកបញ្ហាស្មុគស្មាញឱ្យទៅជាជំហានអនុវត្តជាក់ស្តែង និងច្បាស់លាស់។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "strengths",
+   "img": "img/c4-graph.svg",
+   "flat": true,
+   "alt": "A bar chart showing rising performance",
+   "hook": "Track record",
+   "ko": "In my previous role, I spearheaded a process improvement that cut turnaround time by twenty percent.",
+   "en": "💡 Meaning: Demonstrating leadership ('spearheaded') with measurable business impact.\n🇰🇭 ខ្មែរ៖ នៅក្នុងតួនាទីចាស់របស់ខ្ញុំ ខ្ញុំបានដឹកនាំគំនិតផ្តួចផ្តើមកែលម្អដំណើរការការងារ ដែលកាត់បន្ថយរយៈពេលបំពេញការងារបាន ២០%។",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "challenges",
+   "img": "img/c5-clock.svg",
+   "flat": true,
+   "alt": "A clock showing urgent tight deadlines",
+   "hook": "Pressure",
+   "ko": "How do you handle high-pressure deadlines and unexpected setbacks?",
+   "en": "💡 Meaning: A behavioral question testing your stress management and resilience under pressure.\n🇰🇭 ខ្មែរ៖ តើអ្នកគ្រប់គ្រងសម្ពាធការងារកៀកថ្ងៃកំណត់ (Deadlines) និងឧបសគ្គដែលកើតឡើងភ្លាមៗដោយរបៀបណា?",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "challenges",
+   "img": "img/c6-checklist.svg",
+   "flat": true,
+   "alt": "An organized structured checklist with ticks",
+   "hook": "Methodical",
+   "ko": "I prioritize tasks methodically, maintain transparent communication, and focus on viable solutions.",
+   "en": "💡 Meaning: Highlighting emotional intelligence, systematic organization, and proactive communication.\n🇰🇭 ខ្មែរ៖ ខ្ញុំរៀបចំលំដាប់អាទិភាពការងារតាមបែបផែនច្បាស់លាស់ រក្សាការប្រាស្រ័យទាក់ទងដោយបើកចំហ និងផ្តោតលើដំណោះស្រាយជាក់ស្តែង។",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "closing",
+   "img": "img/c7-flag.svg",
+   "flat": true,
+   "alt": "A target milestone flag",
+   "hook": "Milestones",
+   "ko": "What are the most critical milestones you expect this role to achieve in the first six months?",
+   "en": "💡 Meaning: An impressive question showing high initiative and forward-thinking focus on deliverables.\n🇰🇭 ខ្មែរ៖ តើអ្វីជាសមិទ្ធផលសំខាន់បំផុតដែលអ្នករំពឹងថាអ្នកកាន់តួនាទីនេះនឹងសម្រេចបានក្នុងរយៈពេល ៦ ខែដំបូង?",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "closing",
+   "img": "img/c8-handshake.svg",
+   "flat": true,
+   "alt": "A respectful professional handshake",
+   "hook": "Alignment",
+   "ko": "I am very excited about the company vision and confident that my skill set aligns with your goals.",
+   "en": "💡 Meaning: A confident, polished closing line reaffirming your enthusiasm and suitability.\n🇰🇭 ខ្មែរ៖ ខ្ញុំពិតជារំភើបខ្លាំងណាស់ចំពោះចក្ខុវិស័យរបស់ក្រុមហ៊ុន ហើយមានទំនុកចិត្តថាសមត្ថភាពរបស់ខ្ញុំត្រូវគ្នាយ៉ាងល្អឥតខ្ចោះជាមួយគោលដៅរបស់ក្រុមហ៊ុន។",
+   "audio": "audio/c08.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "Tough Interview Questions · សំណួរពិបាកៗក្នុងសម្ភាសន៍",
+   "items": [
+    {
+     "q": "How should I answer 'What is your greatest weakness?'",
+     "qen": "សំណួរ៖ តើខ្ញុំគួរឆ្លើយសំណួរ 'តើអ្វីជាចំណុចខ្សោយធំបំផុតរបស់អ្នក?' ដូចម្តេច?",
+     "a": "Choose an authentic skill gap that is not essential to the job, and immediately explain the proactive steps you are taking to overcome it.",
+     "aen": "💡 English: Avoid humblebrags like 'I work too hard'; pick an authentic area and highlight continuous learning.\n🇰🇭 ខ្មែរ៖ ជ្រើសរើសចំណុចខ្វះខាតជាក់ស្តែងដែលមិនប៉ះពាល់ដល់ការងារស្នូល រួចពន្យល់ភ្លាមៗអំពីសកម្មភាពជាក់ស្តែងដែលអ្នកកំពុងហាត់រៀនកែលម្អវា។",
+     "why": "Hiring managers look for honest self-awareness and active dedication to growth.",
+     "audio": "audio/qa1.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "Compensation & Next Steps · ប្រាក់បៀវត្ស និងជំហានបន្ត",
+   "items": [
+    {
+     "q": "When is the right moment to discuss salary expectations?",
+     "qen": "សំណួរ៖ តើពេលណាជាពេលវេលាស័ក្តិសមបំផុតក្នុងការពិភាក្សាអំពីរឿងប្រាក់ខែ?",
+     "a": "Wait until the employer asks first, or after you have successfully demonstrated your capabilities and mutual interest.",
+     "aen": "💡 English: Establishing mutual fit first gives you significantly stronger leverage during compensation discussions.\n🇰🇭 ខ្មែរ៖ រង់ចាំរហូតដល់អ្នកសម្ភាសន៍លើកឡើងជាមុន ឬបន្ទាប់ពីអ្នកបានបង្ហាញពីតម្លៃ និងសមត្ថភាពរបស់អ្នកយ៉ាងច្បាស់លាស់រួចរាល់។",
+     "audio": "audio/qa2.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "Smart Reverse Questions · សំណួរឆ្លាតវៃសម្រាប់សួរអ្នកសម្ភាសន៍",
+   "items": [
+    {
+     "ko": "Could you please elaborate on the day-to-day responsibilities of this position?",
+     "en": "💡 English: Asking politely for detailed daily workflow expectations · 🇰🇭 តើអ្នកអាចជួយពន្យល់បន្ថែមអំពីទំនួលខុសត្រូវប្រចាំថ្ងៃនៃមុខតំណែងនេះបានទេ?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "What does the typical career progression look like for someone excelling in this team?",
+     "en": "💡 English: Inquiring about future promotion and professional growth paths · 🇰🇭 តើឱកាសនៃការឡើងតំណែង ឬការរីកចម្រើនក្នុងអាជីពសម្រាប់អ្នកដែលធ្វើការបានល្អក្នុងក្រុមនេះមានទម្រង់បែបណា?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Background & Expertise · បទពិសោធន៍ និងជំនាញ",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "Track record",
+     "en": "💡 A documented history of past accomplishments and performance · 🇰🇭 ប្រវត្តិស្នាដៃ ឬសមិទ្ធផលការងារកន្លងមក",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "Hands-on",
+     "en": "💡 Direct practical experience gained through real application · 🇰🇭 បទពិសោធន៍ជាក់ស្តែងផ្ទាល់ដៃ",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "Skill set",
+     "en": "💡 The complete range of skills and abilities a person possesses · 🇰🇭 សំណុំជំនាញ និងសមត្ថភាពរួម",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "Core competency",
+     "en": "💡 A primary strength that gives you a competitive advantage · 🇰🇭 សមត្ថភាពស្នូលដ៏លេចធ្លោ",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Leadership & Impact · ភាពជាអ្នកដឹកនាំ និងឥទ្ធិពល",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "Spearhead",
+     "en": "💡 To lead, initiate, or champion a project or initiative · 🇰🇭 ដឹកនាំ ឬផ្តួចផ្តើមធ្វើជាជួរមុខ",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "Streamline",
+     "en": "💡 To simplify a process to increase efficiency and cut waste · 🇰🇭 កែលម្អដំណើរការឱ្យកាន់តែរហ័ស និងសាមញ្ញ",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "Collaborate",
+     "en": "💡 To work cooperatively with others to achieve a shared goal · 🇰🇭 សហការ និងធ្វើការជាក្រុម",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "Methodical",
+     "en": "💡 Systematic, orderly, and careful in approach and execution · 🇰🇭 មានបែបផែន និងប្រព័ន្ធច្បាស់លាស់",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Problem-Solving & Adaptability · ការដោះស្រាយបញ្ហា",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "Setback",
+     "en": "💡 An unexpected obstacle or delay in progress · 🇰🇭 ឧបសគ្គ ឬការរាំងស្ទះដែលមិនរំពឹងទុក",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "Turnaround time",
+     "en": "💡 The total time required to complete a process or request · 🇰🇭 រយៈពេលដែលប្រើប្រាស់ដើម្បីបញ្ចប់កិច្ចការមួយ",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "Resilience",
+     "en": "💡 The capacity to quickly recover from difficulties or stress · 🇰🇭 ភាពរឹងមាំ និងការងើបឡើងវិញពីការលំបាក",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "Proactive",
+     "en": "💡 Taking initiative and anticipating needs before being asked · 🇰🇭 ម្ចាស់ការ គិតគូរជាមុន",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Strategic Fit & Value · យុទ្ធសាស្ត្រ និងការរីកចម្រើន",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "Milestone",
+     "en": "💡 A significant checkpoint or achievement marking progress · 🇰🇭 ដំណាក់កាល ឬសមិទ្ធផលសំខាន់ក្នុងការងារ",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "Alignment",
+     "en": "💡 Close agreement and positioning alongside organizational goals · 🇰🇭 ការស្របគ្នា ឬត្រូវគ្នានឹងទិសដៅរួម",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "Leverage",
+     "en": "💡 Strategic advantage used to achieve an optimal outcome · 🇰🇭 គុណសម្បត្តិ ឬកម្លាំងជំរុញយុទ្ធសាស្ត្រ",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "Culture fit",
+     "en": "💡 Compatibility with an organization's core values and ethos · 🇰🇭 ភាពស៊ីសង្វាក់គ្នានឹងបរិយាកាស និងវប្បធម៌ស្ថាប័ន",
+     "audio": "audio/v16.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "Professional Intro · ការណែនាំប្រវត្តិរូប",
+   "ko": "Could you walk us through your professional background? I bring over five years of hands-on experience in software development and project coordination.",
+   "en": "💡 Meaning: The classic opening question asking for a concise summary of your career journey.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចជួយរៀបរាប់សង្ខេបអំពីប្រវត្តិការងារ និងបទពិសោធន៍របស់អ្នកបានទេ? 💡 Meaning: A strong opening elevator pitch stating your core expertise and years of direct practice.\n🇰🇭 ខ្មែរ៖ ខ្ញុំមានបទពិសោធន៍ជាក់ស្តែងជាង ៥ ឆ្នាំក្នុងការអភិវឌ្ឍផ្នែកទន់ (Software) និងការសម្របសម្រួលគម្រោង។"
+  },
+  {
+   "title": "Key Strengths · ចំណុចខ្លាំងស្នូល",
+   "ko": "My greatest strength is breaking down complex problems into clear, actionable steps. In my previous role, I spearheaded a process improvement that cut turnaround time by twenty percent.",
+   "en": "💡 Meaning: Explaining your analytical ability to simplify difficult situations into practical tasks.\n🇰🇭 ខ្មែរ៖ ចំណុចខ្លាំងបំផុតរបស់ខ្ញុំ គឺសមត្ថភាពក្នុងការបំបែកបញ្ហាស្មុគស្មាញឱ្យទៅជាជំហានអនុវត្តជាក់ស្តែង និងច្បាស់លាស់។ 💡 Meaning: Demonstrating leadership ('spearheaded') with measurable business impact.\n🇰🇭 ខ្មែរ៖ នៅក្នុងតួនាទីចាស់របស់ខ្ញុំ ខ្ញុំបានដឹកនាំគំនិតផ្តួចផ្តើមកែលម្អដំណើរការការងារ ដែលកាត់បន្ថយរយៈពេលបំពេញការងារបាន ២០%។"
+  },
+  {
+   "title": "Overcoming Challenges · ការដោះស្រាយបញ្ហាប្រឈម",
+   "ko": "How do you handle high-pressure deadlines and unexpected setbacks? I prioritize tasks methodically, maintain transparent communication, and focus on viable solutions.",
+   "en": "💡 Meaning: A behavioral question testing your stress management and resilience under pressure.\n🇰🇭 ខ្មែរ៖ តើអ្នកគ្រប់គ្រងសម្ពាធការងារកៀកថ្ងៃកំណត់ (Deadlines) និងឧបសគ្គដែលកើតឡើងភ្លាមៗដោយរបៀបណា? 💡 Meaning: Highlighting emotional intelligence, systematic organization, and proactive communication.\n🇰🇭 ខ្មែរ៖ ខ្ញុំរៀបចំលំដាប់អាទិភាពការងារតាមបែបផែនច្បាស់លាស់ រក្សាការប្រាស្រ័យទាក់ទងដោយបើកចំហ និងផ្តោតលើដំណោះស្រាយជាក់ស្តែង។"
+  },
+  {
+   "title": "Closing & Strategy · ការសួរសំណួរ និងការចរចា",
+   "ko": "What are the most critical milestones you expect this role to achieve in the first six months? I am very excited about the company vision and confident that my skill set aligns with your goals.",
+   "en": "💡 Meaning: An impressive question showing high initiative and forward-thinking focus on deliverables.\n🇰🇭 ខ្មែរ៖ តើអ្វីជាសមិទ្ធផលសំខាន់បំផុតដែលអ្នករំពឹងថាអ្នកកាន់តួនាទីនេះនឹងសម្រេចបានក្នុងរយៈពេល ៦ ខែដំបូង? 💡 Meaning: A confident, polished closing line reaffirming your enthusiasm and suitability.\n🇰🇭 ខ្មែរ៖ ខ្ញុំពិតជារំភើបខ្លាំងណាស់ចំពោះចក្ខុវិស័យរបស់ក្រុមហ៊ុន ហើយមានទំនុកចិត្តថាសមត្ថភាពរបស់ខ្ញុំត្រូវគ្នាយ៉ាងល្អឥតខ្ចោះជាមួយគោលដៅរបស់ក្រុមហ៊ុន។"
+  }
+ ]
+}

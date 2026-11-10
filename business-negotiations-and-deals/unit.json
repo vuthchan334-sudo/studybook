@@ -1,0 +1,324 @@
+{
+ "slug": "business-negotiations-and-deals",
+ "title_ko": "Business Negotiations & Deals",
+ "title_en": "ការចរចាពាណិជ្ជកម្ម និងការចុះកិច្ចព្រមព្រៀង",
+ "subtitle": "Advanced tactics: finding common ground, countering offers, and closing agreements",
+ "description": "Master high-level English negotiation vocabulary: leverage, concessions, bottom lines, counteroffers, and sealing win-win business deals.",
+ "published": "2026-11-10",
+ "station_en": "Negotiations & Deals",
+ "sections": [
+  {
+   "id": "align",
+   "ko": "Opening & Common Ground",
+   "en": "ការបើកកិច្ចសន្ទនា និងចំណុចរួម",
+   "color": "#0052A4"
+  },
+  {
+   "id": "bargain",
+   "ko": "Bargaining & Leverage",
+   "en": "ការតថ្លៃ និងកម្លាំងចរចា",
+   "color": "#00A84D"
+  },
+  {
+   "id": "resolve",
+   "ko": "Overcoming Impasse",
+   "en": "ការដោះស្រាយភាពទាល់ច្រក",
+   "color": "#EF7C1C"
+  },
+  {
+   "id": "close",
+   "ko": "Closing the Deal",
+   "en": "ការចុះហត្ថលេខា និងបិទកិច្ចសន្យា",
+   "color": "#996CAC"
+  }
+ ],
+ "spine": {
+  "title": "Negotiation Flow · ដំណាក់កាលចរចា",
+  "note": "A strategic journey: establish shared value, negotiate trade-offs, navigate non-negotiables, and seal binding deals."
+ },
+ "explain": {
+  "title": "At a glance · មើលមួយភ្លែត",
+  "why": "Successful negotiation is the art of expanding the pie, not splitting difference in anger. Strategic vocabulary gives you poise and authority.",
+  "tiles": [
+   {
+    "img": "img/x-winwin.svg",
+    "ko": "Win-Win",
+    "en": "Mutual long-term value",
+    "color": "#0052A4"
+   },
+   {
+    "img": "img/x-bargain.svg",
+    "ko": "Leverage",
+    "en": "Conditional concessions",
+    "color": "#00A84D"
+   },
+   {
+    "img": "img/x-lock.svg",
+    "ko": "Boundaries",
+    "en": "Non-negotiables & table",
+    "color": "#EF7C1C"
+   },
+   {
+    "img": "img/x-seal.svg",
+    "ko": "Due Diligence",
+    "en": "Seal binding contracts",
+    "color": "#996CAC"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "sec": "align",
+   "img": "img/c1-handshake.svg",
+   "flat": true,
+   "alt": "Two business partners shaking hands",
+   "hook": "Win-win",
+   "ko": "We want to establish a mutually beneficial partnership with long-term value.",
+   "en": "💡 Meaning: Stating a collaborative win-win objective from the very beginning.\n🇰🇭 ខ្មែរ៖ យើងចង់បង្កើតភាពជាដៃគូដែលផ្តល់ផលប្រយោជន៍ឱ្យគ្នាទៅវិញទៅមក (mutually beneficial) ប្រកបដោយតម្លៃយូរអង្វែង។",
+   "audio": "audio/c01.mp3"
+  },
+  {
+   "sec": "align",
+   "img": "img/c2-calculator.svg",
+   "flat": true,
+   "alt": "A financial calculator showing budget",
+   "hook": "Ballpark",
+   "ko": "Could you provide a ballpark figure for the initial project scope?",
+   "en": "💡 Meaning: Asking for an approximate, rough estimate rather than an exact number.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចផ្តល់តួលេខប៉ាន់ស្មានប្រហាក់ប្រហែល (ballpark figure) សម្រាប់ទំហំគម្រោងដំបូងបានទេ?",
+   "audio": "audio/c02.mp3"
+  },
+  {
+   "sec": "bargain",
+   "img": "img/c3-contract.svg",
+   "flat": true,
+   "alt": "A written agreement contract sheet",
+   "hook": "Concession",
+   "ko": "If you can commit to a multi-year contract, we can offer flexible payment terms.",
+   "en": "💡 Meaning: Making a conditional concession: offering flexibility in exchange for loyalty.\n🇰🇭 ខ្មែរ៖ ប្រសិនបើអ្នកអាចចុះកិច្ចសន្យាច្រើនឆ្នាំ យើងអាចផ្តល់នូវលក្ខខណ្ឌទូទាត់ប្រាក់ដែលមានភាពបត់បែនខ្ពស់។",
+   "audio": "audio/c03.mp3"
+  },
+  {
+   "sec": "bargain",
+   "img": "img/c4-lever.svg",
+   "flat": true,
+   "alt": "A mechanical fulcrum lifting a weight",
+   "hook": "Leverage",
+   "ko": "Our main competitive advantage gives us strong leverage in the market.",
+   "en": "💡 Meaning: Using distinct strengths to gain strategic power in discussions.\n🇰🇭 ខ្មែរ៖ គុណសម្បត្តិប្រកួតប្រជែងស្នូលរបស់យើង ផ្តល់ឱ្យយើងនូវកម្លាំងចរចាដ៏រឹងមាំ (leverage) នៅក្នុងទីផ្សារ។",
+   "audio": "audio/c04.mp3"
+  },
+  {
+   "sec": "resolve",
+   "img": "img/c5-lock.svg",
+   "flat": true,
+   "alt": "A secure padlock on an agreement",
+   "hook": "Deal-breaker",
+   "ko": "Guaranteed twenty-four-seven support is a strict non-negotiable for our stakeholders.",
+   "en": "💡 Meaning: A core requirement or deal-breaker that cannot be compromised.\n🇰🇭 ខ្មែរ៖ ការធានាផ្តល់ការគាំទ្រ ២៤/៧ គឺជាលក្ខខណ្ឌដាច់ខាតដែលមិនអាចចរចាបានឡើយ (non-negotiable) សម្រាប់ភាគីពាក់ព័ន្ធរបស់យើង។",
+   "audio": "audio/c05.mp3"
+  },
+  {
+   "sec": "resolve",
+   "img": "img/c6-table.svg",
+   "flat": true,
+   "alt": "A clean conference negotiation table",
+   "hook": "Table",
+   "ko": "Let us table this specific clause for now and revisit it once the main scope is settled.",
+   "en": "💡 Meaning: A diplomatic idiom meaning 'postpone discussing this issue until later'.\n🇰🇭 ខ្មែរ៖ ចូរសុំផ្អាកការពិភាក្សាលើប្រយោគជាក់លាក់នេះសិន (table this) ហើយយើងនឹងពិនិត្យវាម្តងទៀតនៅពេលទំហំការងារធំត្រូវបានឯកភាព។",
+   "audio": "audio/c06.mp3"
+  },
+  {
+   "sec": "close",
+   "img": "img/c7-scales.svg",
+   "flat": true,
+   "alt": "Balanced justice scales",
+   "hook": "Consensus",
+   "ko": "I believe we have reached a solid consensus that satisfies both parties.",
+   "en": "💡 Meaning: Expressing agreement and confirming that all key concerns are resolved.\n🇰🇭 ខ្មែរ៖ ខ្ញុំជឿជាក់ថាយើងបានឈានដល់ការយល់ស្របជាឯកច្ឆន្ទដ៏រឹងមាំមួយ (consensus) ដែលបំពេញចិត្តភាគីទាំងសងខាង។",
+   "audio": "audio/c07.mp3"
+  },
+  {
+   "sec": "close",
+   "img": "img/c8-pen.svg",
+   "flat": true,
+   "alt": "A golden signing pen with ink",
+   "hook": "Seal the deal",
+   "ko": "Once legal completes due diligence, we will be ready to seal the deal.",
+   "en": "💡 Meaning: Finalizing the official verification process before formally signing the agreement.\n🇰🇭 ខ្មែរ៖ នៅពេលផ្នែកច្បាប់បញ្ចប់ការផ្ទៀងផ្ទាត់យ៉ាងហ្មត់ចត់ (due diligence) យើងនឹងត្រៀមខ្លួនរួចរាល់ដើម្បីចុះហត្ថលេខាបិទកិច្ចសន្យាជាផ្លូវការ (seal the deal)។",
+   "audio": "audio/c08.mp3"
+  }
+ ],
+ "qa": [
+  {
+   "kind": "trap",
+   "title": "Tactical Traps · ចំណុចប្រយ័ត្នក្នុងការចរចា",
+   "items": [
+    {
+     "q": "What should I do if the other party's initial offer is unacceptably low?",
+     "qen": "សំណួរ៖ តើខ្ញុំគួរធ្វើដូចម្តេច ប្រសិនបើសំណើដំបូងរបស់ភាគីម្ខាងទៀតមានតម្លៃទាបជ្រុលដែលមិនអាចទទួលយកបាន?",
+     "a": "Do not show anger. Anchor your counteroffer with clear market data and justify your pricing with tangible value.",
+     "aen": "💡 English: Avoid emotional pushback; state your baseline calmly and support it with objective benchmarks.\n🇰🇭 ខ្មែរ៖ កុំបង្ហាញការខឹងសម្បារឡើយ។ ចូរឆ្លើយតបជាមួយសំណើតប (counteroffer) ដោយផ្អែកលើទិន្នន័យទីផ្សារច្បាស់លាស់ និងពន្យល់ពីតម្លៃជាក់ស្តែងដែលគេទទួលបាន។",
+     "why": "Emotional reactions weaken your negotiating posture, while data creates authority.",
+     "audio": "audio/qa1.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "qa",
+   "title": "Strategy & Frameworks · យុទ្ធសាស្ត្រចរចា",
+   "items": [
+    {
+     "q": "What does having a strong BATNA mean in negotiations?",
+     "qen": "សំណួរ៖ តើការមាន BATNA ដ៏រឹងមាំមានន័យដូចម្តេចក្នុងការចរចា?",
+     "a": "BATNA stands for Best Alternative to a Negotiated Agreement; it is your backup option that gives you power to walk away.",
+     "aen": "💡 English: A solid fallback alternative protects you from accepting bad unfavorable terms.\n🇰🇭 ខ្មែរ៖ BATNA គឺជាជម្រើសបម្រុងដ៏ល្អបំផុត ប្រសិនបើការចរចាមិនត្រូវគ្នា ដែលវាផ្តល់ឱ្យអ្នកនូវអំណាចក្នុងការដើរចេញដោយមិនបាច់រងសម្ពាធ។",
+     "audio": "audio/qa2.mp3"
+    }
+   ]
+  },
+  {
+   "kind": "surv",
+   "title": "Diplomatic Clarifications · ឃ្លាការទូតសួរដេញដោល",
+   "items": [
+    {
+     "ko": "Could you walk us through the reasoning behind this pricing structure?",
+     "en": "💡 English: Politely prompting the other party to explain their cost breakdown · 🇰🇭 តើអ្នកអាចជួយពន្យល់អំពីហេតុផលនៅពីក្រោយរចនាសម្ព័ន្ធតម្លៃនេះបានទេ?",
+     "audio": "audio/s1.mp3"
+    },
+    {
+     "ko": "What flexibility do you have on the delivery timeline?",
+     "en": "💡 English: Exploring room for compromise without sounding demanding · 🇰🇭 តើអ្នកមានភាពបត់បែនកម្រិតណាដែរចំពោះកាលវិភាគនៃការប្រគល់ការងារ?",
+     "audio": "audio/s2.mp3"
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {
+   "title": "Core Terminology · ពាក្យគន្លឹះគ្រឹះ",
+   "color": "#0052A4",
+   "items": [
+    {
+     "ko": "Win-win",
+     "en": "💡 An outcome where all parties gain positive results · 🇰🇭 ស្ថានភាពឈ្នះ-ឈ្នះ ផ្តល់ផលល្អទាំងសងខាង",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "ko": "Ballpark figure",
+     "en": "💡 A rough numerical estimate or broad approximation · 🇰🇭 តួលេខប៉ាន់ស្មានប្រហាក់ប្រហែល",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "ko": "Bottom line",
+     "en": "💡 The minimum acceptable threshold or fundamental priority · 🇰🇭 កម្រិតទាបបំផុតដែលមិនអាចថយក្រោយបាន",
+     "audio": "audio/v03.mp3"
+    },
+    {
+     "ko": "Common ground",
+     "en": "💡 Shared interests, opinions, or goals between parties · 🇰🇭 ចំណុចស្របគ្នា ឬគោលដៅរួម",
+     "audio": "audio/v04.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Bargaining & Tactics · ការតថ្លៃ និងកម្លាំងចរចា",
+   "color": "#00A84D",
+   "items": [
+    {
+     "ko": "Leverage",
+     "en": "💡 Power or influence that can be used to achieve results · 🇰🇭 កម្លាំងឥទ្ធិពល ឬប្រៀបចរចា",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "ko": "Concession",
+     "en": "💡 Something granted or yielded in response to demands · 🇰🇭 ការសម្របសម្រួល ឬការផ្តល់សម្បទាន",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "ko": "Counteroffer",
+     "en": "💡 An alternative proposal made in response to an existing offer · 🇰🇭 សំណើឆ្លើយតប ឬការតថ្លៃត្រឡប់ទៅវិញ",
+     "audio": "audio/v07.mp3"
+    },
+    {
+     "ko": "Trade-off",
+     "en": "💡 Giving up one desirable benefit to gain another · 🇰🇭 ការលះបង់ចំណុចមួយ ដើម្បីទទួលបានចំណុចមួយទៀត",
+     "audio": "audio/v08.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Deadlock & Boundaries · ដែនកំណត់ និងភាពទាល់ច្រក",
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "ko": "Deal-breaker",
+     "en": "💡 An issue or factor that causes a deal to fall through completely · 🇰🇭 កត្តាដែលធ្វើឱ្យកិច្ចសន្យាត្រូវបែកបាក់",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "ko": "Non-negotiable",
+     "en": "💡 Absolute condition that cannot be modified or compromised · 🇰🇭 លក្ខខណ្ឌដាច់ខាតដែលមិនអាចចរចាបាន",
+     "audio": "audio/v10.mp3"
+    },
+    {
+     "ko": "Impasse",
+     "en": "💡 A situation in which no progress seems possible; a deadlock · 🇰🇭 ភាពទាល់ច្រក ដែលមិនអាចទៅមុខរួច",
+     "audio": "audio/v11.mp3"
+    },
+    {
+     "ko": "Table",
+     "en": "💡 To postpone or delay discussion on a specific topic · 🇰🇭 ផ្អាកការពិភាក្សាលើប្រធានបទមួយសិន",
+     "audio": "audio/v12.mp3"
+    }
+   ]
+  },
+  {
+   "title": "Contracts & Closing · ការចុះហត្ថលេខា និងកិច្ចសន្យា",
+   "color": "#996CAC",
+   "items": [
+    {
+     "ko": "Consensus",
+     "en": "💡 General agreement and unity of opinion reached by a group · 🇰🇭 ការយល់ស្របជាឯកច្ឆន្ទ",
+     "audio": "audio/v13.mp3"
+    },
+    {
+     "ko": "Due diligence",
+     "en": "💡 Comprehensive investigation and audit before signing a contract · 🇰🇭 ការស្រាវជ្រាវ និងផ្ទៀងផ្ទាត់យ៉ាងហ្មត់ចត់",
+     "audio": "audio/v14.mp3"
+    },
+    {
+     "ko": "Seal the deal",
+     "en": "💡 Idiom meaning to formally complete and sign an agreement · 🇰🇭 ចុះហត្ថលេខាសម្រេចកិច្ចព្រមព្រៀងជាផ្លូវការ",
+     "audio": "audio/v15.mp3"
+    },
+    {
+     "ko": "Binding",
+     "en": "💡 Legally enforceable obligation that must be honored · 🇰🇭 កាតព្វកិច្ចដែលមានប្រសិទ្ធភាពតាមផ្លូវច្បាប់",
+     "audio": "audio/v16.mp3"
+    }
+   ]
+  }
+ ],
+ "full": [
+  {
+   "title": "Opening & Common Ground · ការបើកកិច្ចសន្ទនា និងចំណុចរួម",
+   "ko": "We want to establish a mutually beneficial partnership with long-term value. Could you provide a ballpark figure for the initial project scope?",
+   "en": "💡 Meaning: Stating a collaborative win-win objective from the very beginning.\n🇰🇭 ខ្មែរ៖ យើងចង់បង្កើតភាពជាដៃគូដែលផ្តល់ផលប្រយោជន៍ឱ្យគ្នាទៅវិញទៅមក (mutually beneficial) ប្រកបដោយតម្លៃយូរអង្វែង។ 💡 Meaning: Asking for an approximate, rough estimate rather than an exact number.\n🇰🇭 ខ្មែរ៖ តើអ្នកអាចផ្តល់តួលេខប៉ាន់ស្មានប្រហាក់ប្រហែល (ballpark figure) សម្រាប់ទំហំគម្រោងដំបូងបានទេ?"
+  },
+  {
+   "title": "Bargaining & Leverage · ការតថ្លៃ និងកម្លាំងចរចា",
+   "ko": "If you can commit to a multi-year contract, we can offer flexible payment terms. Our main competitive advantage gives us strong leverage in the market.",
+   "en": "💡 Meaning: Making a conditional concession: offering flexibility in exchange for loyalty.\n🇰🇭 ខ្មែរ៖ ប្រសិនបើអ្នកអាចចុះកិច្ចសន្យាច្រើនឆ្នាំ យើងអាចផ្តល់នូវលក្ខខណ្ឌទូទាត់ប្រាក់ដែលមានភាពបត់បែនខ្ពស់។ 💡 Meaning: Using distinct strengths to gain strategic power in discussions.\n🇰🇭 ខ្មែរ៖ គុណសម្បត្តិប្រកួតប្រជែងស្នូលរបស់យើង ផ្តល់ឱ្យយើងនូវកម្លាំងចរចាដ៏រឹងមាំ (leverage) នៅក្នុងទីផ្សារ។"
+  },
+  {
+   "title": "Overcoming Impasse · ការដោះស្រាយភាពទាល់ច្រក",
+   "ko": "Guaranteed twenty-four-seven support is a strict non-negotiable for our stakeholders. Let us table this specific clause for now and revisit it once the main scope is settled.",
+   "en": "💡 Meaning: A core requirement or deal-breaker that cannot be compromised.\n🇰🇭 ខ្មែរ៖ ការធានាផ្តល់ការគាំទ្រ ២៤/៧ គឺជាលក្ខខណ្ឌដាច់ខាតដែលមិនអាចចរចាបានឡើយ (non-negotiable) សម្រាប់ភាគីពាក់ព័ន្ធរបស់យើង។ 💡 Meaning: A diplomatic idiom meaning 'postpone discussing this issue until later'.\n🇰🇭 ខ្មែរ៖ ចូរសុំផ្អាកការពិភាក្សាលើប្រយោគជាក់លាក់នេះសិន (table this) ហើយយើងនឹងពិនិត្យវាម្តងទៀតនៅពេលទំហំការងារធំត្រូវបានឯកភាព។"
+  },
+  {
+   "title": "Closing the Deal · ការចុះហត្ថលេខា និងបិទកិច្ចសន្យា",
+   "ko": "I believe we have reached a solid consensus that satisfies both parties. Once legal completes due diligence, we will be ready to seal the deal.",
+   "en": "💡 Meaning: Expressing agreement and confirming that all key concerns are resolved.\n🇰🇭 ខ្មែរ៖ ខ្ញុំជឿជាក់ថាយើងបានឈានដល់ការយល់ស្របជាឯកច្ឆន្ទដ៏រឹងមាំមួយ (consensus) ដែលបំពេញចិត្តភាគីទាំងសងខាង។ 💡 Meaning: Finalizing the official verification process before formally signing the agreement.\n🇰🇭 ខ្មែរ៖ នៅពេលផ្នែកច្បាប់បញ្ចប់ការផ្ទៀងផ្ទាត់យ៉ាងហ្មត់ចត់ (due diligence) យើងនឹងត្រៀមខ្លួនរួចរាល់ដើម្បីចុះហត្ថលេខាបិទកិច្ចសន្យាជាផ្លូវការ (seal the deal)។"
+  }
+ ]
+}
